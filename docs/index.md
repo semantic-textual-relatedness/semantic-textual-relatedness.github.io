@@ -1,8 +1,8 @@
 
 <center>
 
-#   ** Semantic Sentence Textual Relatedness** 
-SemEval 2024 Task 1: Semantic Textual Relatedness Shared Task
+#   ** Semantic Textual Relatedness** 
+SemEval 2024 Task 1: Semantic Textual Relatedness 
 
 > Part of the [18th International Workshop on Semantic Evaluation](https://semeval.github.io/SemEval2024/tasks.html)
 
