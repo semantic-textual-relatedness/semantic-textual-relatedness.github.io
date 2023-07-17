@@ -8,7 +8,7 @@ SemEval 2024 Task 1: Semantic Textual Relatedness Shared Task
 
 <!-- 
 <center> -->
-> Contact organizers at: [afrisenti-semeval-organizers@googlegroups.com](mailto:afrisenti-semeval-organizers@googlegroups.com)
+> Contact organizers at: [semrel@googlegroups.com](mailto:https://groups.google.com/d/forum/semrel-semeval-organisers)
 <!-- 
 <center> -->
 
