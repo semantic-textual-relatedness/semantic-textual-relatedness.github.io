@@ -12,13 +12,12 @@ SemEval 2024 Task 1: Semantic Textual Relatedness Shared Task
 <!-- 
 <center> -->
 
-> Join Task Google Group: [afrisenti-semeval-organizers@googlegroups.com](mailto:afrisenti-semeval-organizers@googlegroups.com)
+> [Join Task Slack Group](https://join.slack.com/t/slack-1ga9972/shared_invite/zt-1z8um0fdi-ddx5VWCxvw~kcpTkuAXwrQ)
 
 
 <!-- <center> -->
 
-> Join Task Slack: [afrisenti-semeval-organizers@googlegroups.com](mailto:afrisenti-semeval-organizers@googlegroups.com)
-
+<!-- g
 <!-- 
 >  [Visit CodaLab competition website](https://codalab.lisn.upsaclay.fr/competitions/7320) -->
 

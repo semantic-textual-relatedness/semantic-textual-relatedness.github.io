@@ -37,9 +37,6 @@
                                 <a href="." class="nav-link">Home</a>
                             </li>
                             <li class="navitem">
-                                <a href="participation/" class="nav-link">Participation</a>
-                            </li>
-                            <li class="navitem">
                                 <a href="Resources/" class="nav-link">Resources</a>
                             </li>
                             <li class="navitem">
@@ -47,12 +44,6 @@
                             </li>
                             <li class="navitem">
                                 <a href="Terms/" class="nav-link">Terms</a>
-                            </li>
-                            <li class="navitem">
-                                <a href="results/" class="nav-link">Results</a>
-                            </li>
-                            <li class="navitem">
-                                <a href="prizes/" class="nav-link">Awards</a>
                             </li>
                         </ul>
 
@@ -68,7 +59,7 @@
                                 </a>
                             </li>
                             <li class="nav-item">
-                                <a rel="next" href="participation/" class="nav-link">
+                                <a rel="next" href="Resources/" class="nav-link">
                                     Next <i class="fa fa-arrow-right"></i>
                                 </a>
                             </li>
@@ -90,7 +81,7 @@
     <div id="toc-collapse" class="navbar-collapse collapse card bg-secondary">
         <ul class="nav flex-column">
             
-            <li class="nav-item" data-level="1"><a href="#afrisenti-semeval-shared-task-12" class="nav-link">AfriSenti-SemEval Shared Task 12</a>
+            <li class="nav-item" data-level="1"><a href="#semantic-sentence-textual-relatedness" class="nav-link">Semantic Sentence Textual Relatedness</a>
               <ul class="nav flex-column">
             <li class="nav-item" data-level="2"><a href="#motivation" class="nav-link">Motivation</a>
               <ul class="nav flex-column">
@@ -100,35 +91,11 @@
               <ul class="nav flex-column">
               </ul>
             </li>
-            <li class="nav-item" data-level="2"><a href="#dataset-examples" class="nav-link">Dataset Examples</a>
-              <ul class="nav flex-column">
-              </ul>
-            </li>
-            <li class="nav-item" data-level="2"><a href="#starter-kit" class="nav-link">Starter kit</a>
-              <ul class="nav flex-column">
-              </ul>
-            </li>
-            <li class="nav-item" data-level="2"><a href="#why-participate" class="nav-link">Why Participate ?</a>
-              <ul class="nav flex-column">
-              </ul>
-            </li>
             <li class="nav-item" data-level="2"><a href="#important-dates" class="nav-link">Important Dates</a>
               <ul class="nav flex-column">
               </ul>
             </li>
-            <li class="nav-item" data-level="2"><a href="#communication" class="nav-link">Communication</a>
-              <ul class="nav flex-column">
-              </ul>
-            </li>
-            <li class="nav-item" data-level="2"><a href="#previous-shared-tasks" class="nav-link">Previous Shared Tasks</a>
-              <ul class="nav flex-column">
-              </ul>
-            </li>
             <li class="nav-item" data-level="2"><a href="#references" class="nav-link">References</a>
-              <ul class="nav flex-column">
-              </ul>
-            </li>
-            <li class="nav-item" data-level="2"><a href="#funding-acknowledgements" class="nav-link">Funding Acknowledgements</a>
               <ul class="nav flex-column">
               </ul>
             </li>
@@ -140,113 +107,53 @@
                     <div class="col-md-9" role="main">
 
 <p><center></p>
-<h1 id="afrisenti-semeval-shared-task-12"><strong>AfriSenti-SemEval Shared Task 12</strong></h1>
-<p>AfriSenti-SemEval: Sentiment Analysis for African Languages</p>
+<h1 id="semantic-sentence-textual-relatedness"><strong> Semantic Sentence Textual Relatedness</strong></h1>
+<p>SemEval 2024 Task 1: Semantic Textual Relatedness Shared Task</p>
 <blockquote>
-<p>Part of the <a href="https://semeval.github.io/SemEval2023/tasks.html">17th International Workshop on Semantic Evaluation</a>
-</center></p>
+<p>Part of the <a href="https://semeval.github.io/SemEval2024/tasks.html">18th International Workshop on Semantic Evaluation</a></p>
 </blockquote>
-<p><font size=3> <span style="color: blue;"> Please use the following BibTex entry to cite us if you use our dataset: </span> </font></p>
-<p><strong><cite><a href="https://arxiv.org/pdf/2304.06845.pdf">SemEval-2023 Task 12: Sentiment Analysis for African Languages
-(AfriSenti-SemEval)</a>.</cite></strong> </p>
-<pre id="citeBibtexContent" class="bg-light border p-2">@inproceedings
-{muhammadSemEval2023,
-title = {{SemEval-2023 Task 12: Sentiment Analysis for African Languages (AfriSenti-SemEval)}},
-author = {Shamsuddeen Hassan Muhammad and Idris Abdulmumin and Seid Muhie Yimam and David Ifeoluwa Adelani and Ibrahim Sa'id Ahmad and Nedjma Ousidhoum and Abinew Ali Ayele and Saif M. Mohammad and Meriem Beloucif and Sebastian Ruder},
-booktitle = {Proceedings of the 17th {{International Workshop}} on {{Semantic Evaluation}} ({{SemEval-2023}})},
-publisher = {{Association for Computational Linguistics}},
-year = {2023},
-url = {https://arxiv.org/pdf/2304.06845.pdf}
-}</pre>
-
-<p><strong><cite><a href="https://arxiv.org/pdf/2302.08956.pdf">AfriSenti: A Twitter Sentiment Analysis Benchmark for African
-Languages</a>.</cite></strong> </p>
-<pre id="citeBibtexContent" class="bg-light border p-2">@misc
-{muhammad2023afrisenti,
-title={{AfriSenti: A Twitter Sentiment Analysis Benchmark for African Languages}},
-author={Shamsuddeen Hassan Muhammad and Idris Abdulmumin and Abinew Ali Ayele and Nedjma Ousidhoum and David Ifeoluwa Adelani and Seid Muhie Yimam and Ibrahim Sa'id Ahmad and Meriem Beloucif and Saif M. Mohammad and Sebastian Ruder and Oumaima Hourrane and Pavel Brazdil and Felermino Dário Mário António Ali and Davis David and Salomey Osei and Bello Shehu Bello and Falalu Ibrahim and Tajuddeen Gwadabe and Samuel Rutunda and Tadesse Belay and Wendimu Baye Messelle and Hailu Beshada Balcha and Sisay Adugna Chala and Hagos Tesfahun Gebremichael and Bernard Opoku and Steven Arthur},
-year={2023},
-doi={10.48550/arXiv.2302.08956},
-url={https://arxiv.org/pdf/2302.08956.pdf}
-}</pre>
-
-<p><center></p>
+<!-- 
+<center> -->
 <blockquote>
 <p>Contact organizers at: <a href="mailto:afrisenti-semeval-organizers@googlegroups.com">afrisenti-semeval-organizers@googlegroups.com</a></p>
-<p><a href="https://codalab.lisn.upsaclay.fr/competitions/7320">Visit CodaLab competition website</a></p>
 </blockquote>
-<p><font size=3> <span style="color: blue;"> AfriSenti dataset is available at task's:<a href="https://github.com/afrisenti-semeval/afrisent-semeval-2023">GitHub repo</a> </span> </font></p>
+<!-- 
+<center> -->
+
+<blockquote>
+<p><a href="https://join.slack.com/t/slack-1ga9972/shared_invite/zt-1z8um0fdi-ddx5VWCxvw~kcpTkuAXwrQ">Join Task Slack Group</a></p>
+</blockquote>
+<!-- <center> -->
+
+<blockquote>
+<p>Join Task Slack: <a href="mailto:afrisenti-semeval-organizers@googlegroups.com">afrisenti-semeval-organizers@googlegroups.com</a></p>
+</blockquote>
+<!-- 
+>  [Visit CodaLab competition website](https://codalab.lisn.upsaclay.fr/competitions/7320) -->
+
+<!-- <font size=3> <span style="color: blue;"> AfriSenti dataset is available at task's:[GitHub repo](https://github.com/afrisenti-semeval/afrisent-semeval-2023) </span> </font>
+ -->
+
 <p></center></p>
 <hr />
 <h2 id="motivation"><strong>Motivation</strong></h2>
-<p>Due to the widespread use of the Internet and social media platforms, most languages are becoming digitally available. This allows for various artificial intelligence (AI) applications that enable tasks such as sentiment analysis, machine translation and hateful content detection. According to UNESCO (2003), 30% of all living languages, around 2,058, are African languages. However, most of these languages do not have curated datasets for developing such AI applications. Recently, various individual and funded initiatives, such as the Lacuna Fund, have set out to reverse this trend and create such datasets for African languages. However, research is required to determine both the suitability of current natural language processing (NLP) techniques and the development of novel techniques to maximize the applications of such datasets.</p>
-<p>There has been a growing interest in sentiment analysis which applies to many domains, including public health, commerce/business, art and literature, social sciences, neuroscience, and psychology (<cite>Mohammad, Saif M, 2022</cite>). Previous shared tasks on sentiment analysis include <cite>Mohammad, Saif M et al., (2018), Nakov et al., (2016), Pontiki et al., Ghosh et al., (2015), (2014), and so on</cite>. However, none of these tasks included African languages. Though <cite> Mohammad, Saif, et al. (2018)</cite> included standard Arabic, we focus on Arabic dialects from African countries: <cite>Algerian Arabic</cite> and <cite>Tunisian Arabizi</cite>. We believe SemEval is the right venue, due to its popularity and widespread acceptance, to carry out shared tasks for African languages to strengthen their further development.</p>
-
-<p>In this shared task, we have covered 17 African languages, <a href="https://en.wikipedia.org/wiki/Hausa_language">Hausa</a>, <a href="https://en.wikipedia.org/wiki/Yoruba_language">Yoruba</a>, <a href="https://en.wikipedia.org/wiki/Igbo_language">Igbo</a>, <a href="https://en.wikipedia.org/wiki/Nigerian_Pidgin">Nigerian </a>Pidgin from Nigeria, <a href="https://en.wikipedia.org/wiki/Amharic, and Oromo">Amharic</a>, <a href="https://en.wikipedia.org/wiki/Tigrinya_language">Tigrinya</a>, and <a href="https://en.wikipedia.org/wiki/Oromo_language">Oromo</a> from Ethiopia, <a href="https://en.wikipedia.org/wiki/Swahili_language">Swahili</a> from Kenya and Tanzania, <a href="https://en.wikipedia.org/wiki/Algerian_Arabic">Algerian Arabic</a> dialect from Algeria, <a href="https://en.wikipedia.org/wiki/Kinyarwanda">Kinyarwanda</a> from Rwanda, <a href="https://en.wikipedia.org/wiki/Twi">Twi</a> from Ghana, <a href="https://www.google.com/search?client=safari&amp;rls=en&amp;q=Mozabique+portuguess&amp;ie=UTF-8&amp;oe=UTF-8">Mozambique Portuguese</a> from Mozambique &nbsp;and <a href="https://en.wikipedia.org/wiki/Moroccan_Arabic">Moroccan Arabic/Darija</a> from Morocco.</p>
+<p>The semantic relatedness of two language units has long been considered fundamental to understanding meaning (<cite>George,A Miller, 1991</cite>), and automatically determining relatedness has many applications such as evaluating sentence representation methods, question answering, and summarization (<cite>abdalla,2021; wang2023</cite>).</p>
+<p>Two sentences are considered semantically similar when they have a paraphrasal or entailment relation (e.g., <span style='color: blue;'>The boy scored the winning goal.</span>, <span style='color: blue;'>The boy scored the winning goal.</span>). On the other hand, relatedness is a much broader concept that accounts for all the commonalities between two sentences. For example  <span style='color: blue;'>The boy scored the winning goal.</span> and <span style='color: blue;'>The boy's team moved onto the finals.</span> would be related though not similar. </p>
+<p>
+However, much of past NLP work is on semantic similarity, and largely focused on English. In this shared task, we have covered 17 African languages, <a href="https://en.wikipedia.org/wiki/Hausa_language">Hausa</a>, <a href="https://en.wikipedia.org/wiki/Yoruba_language">Yoruba</a>, <a href="https://en.wikipedia.org/wiki/Igbo_language">Igbo</a>, <a href="https://en.wikipedia.org/wiki/Nigerian_Pidgin">Nigerian </a>Pidgin from Nigeria, <a href="https://en.wikipedia.org/wiki/Amharic, and Oromo">Amharic</a>, <a href="https://en.wikipedia.org/wiki/Tigrinya_language">Tigrinya</a>, and <a href="https://en.wikipedia.org/wiki/Oromo_language">Oromo</a> from Ethiopia, <a href="https://en.wikipedia.org/wiki/Swahili_language">Swahili</a> from Kenya and Tanzania, <a href="https://en.wikipedia.org/wiki/Algerian_Arabic">Algerian Arabic</a> dialect from Algeria, <a href="https://en.wikipedia.org/wiki/Kinyarwanda">Kinyarwanda</a> from Rwanda, <a href="https://en.wikipedia.org/wiki/Twi">Twi</a> from Ghana, <a href="https://www.google.com/search?client=safari&amp;rls=en&amp;q=Mozabique+portuguess&amp;ie=UTF-8&amp;oe=UTF-8">Mozambique Portuguese</a> from Mozambique &nbsp;and <a href="https://en.wikipedia.org/wiki/Moroccan_Arabic">Moroccan Arabic/Darija</a> from Morocco.</p>
 
 <h2 id="task-overview"><strong>Task Overview</strong></h2>
-<p>The <strong>AfriSenti-SemEval Shared Task 12</strong> is based on a collection of Twitter datasets in 14 African languages for sentiment classification. It consists of three sub-tasks. Participants can select one or more sub-tasks depending on their preference. In each sub-task also, the participant may wish to participate in any number of languages as so wished.</p>
+<p>The <strong> Semantic Textual Relatedness Shared Task 1</strong> 
+is the task of predicting semantic textual relatedness (STR) of sentence pairs. Participants will rank sentence pairs by their closeness in meaning (i.e., their degree of semantic relatedness) \cite{mohammad2008measuring} in 14 languages predominantly from Africa and Asia. All sentence pairs will have manually determined relatedness scores between 0 (completely unrelated) and 1 (maximally related). It consists of two sub-tasks. Participants can select one or more sub-tasks depending on their preference.</p>
+
 <blockquote>
 <p><strong>Task A: Monolingual Sentiment Classification</strong></p>
 </blockquote>
 <p>Given training data in a target language, determine the polarity of a tweet in the target language (positive, negative, or neutral). If a tweet conveys both a positive and negative sentiment, whichever is the stronger sentiment should be chosen. This sub-task has 15 tracks:</p>
-<p><strong>Note: You are free to select one or more tracks in this sub-task.<br /></strong></p>
-<ul>
-<li>Track 1: Hausa&nbsp;</li>
-<li>Track 2: Yoruba</li>
-<li>Track 3: Igbo</li>
-<li>Track 4: Nigerian_Pidgin</li>
-<li>Track 5: Amharic</li>
-<li>Track 6: Algerian Arabic</li>
-<li>Track 7: Moroccan Arabic/Darija,</li>
-<li>Track 8: Swahili</li>
-<li>Track 9: Kinyarwanda</li>
-<li>Track 10: Twi</li>
-<li>Track 11: Mozambican Portuguese</li>
-<li>Track 12: Xitsonga&nbsp;(<strong>Mozambique Dialect</strong>)</li>
-<li><span style="text-decoration: line-through;">Track 13: Setswana (data to be released soon)</span></li>
-<li><span style="text-decoration: line-through;">Track 14: isiZulu (data to be released soon)</span></li>
-<li><span style="text-decoration: line-through;">Track 15: Xitsonga (South-African Dialect, to be released soon)</span></li>
-</ul>
-<p><strong>Note: Tweets in each language are code-mix. Read our <a href="https://arxiv.org/pdf/2201.08277.pdf">NaijaSenti</a> paper for more information.</strong></p>
-<blockquote>
-<p><strong>Task B: Multilingual Sentiment Classification</strong></p>
-</blockquote>
-<p>Given combined training data from Task-A (Track 1 to 12), determine the polarity of a tweet in the target language (positive, negative, or neutral). This sub-task has only one track with 12 languages <strong style="color: blue;">(Hausa, Yoruba, Igbo, Nigerian_Pidgin, Amharic, Algerian Arabic, Moroccan Arabic/Darija, Swahili, Kinyarwanda, Twi, Mozambican Portuguese, and Xitsonga(<strong>Mozambique Dialect</strong>)):</strong></p>
-<ul>
-<li>Track 16: 12 languages in Task A</li>
-</ul>
-<blockquote>
-<p><strong>Task C: Zero-Shot Sentiment Classification</strong></p>
-</blockquote>
-<p>Given unlabelled tweets in two African languages (Tigrinya and Oromo), leverage any or all of the available training datasets (in Task:A ) to determine the sentiment of a tweet in the two target languages. This task has two (2) tracks.</p>
-<p><strong>Note: You are free to select one or more tracks in this sub-task.</strong></p>
-<ul>
-<li>Track 17: Zero-Shot on Tigrinya</li>
-<li>Track 18: Zero-Shot on Oromo</li>
-</ul>
-<h2 id="dataset-examples"><strong>Dataset Examples</strong></h2>
-<p>The dataset involves tweets labeled with three sentiment classes (positive, negative, neutral) in 14 African languages. Each tweet is annotated by three annotators following the annotation guidelines in (<cite>Mohammad, Saif M, 2016</cite>). We use a form of majority vote to determine the sentiment of the tweet. See more in our paper (<cite>Muhammad et al., 2022</cite>, <cite>Yimam et al., 2020</cite>). Below is a sample dataset for the 4 Nigerian languges (Muhammad et al., 2022):</p>
-<p><img alt="Dataset Example" src="dataset_updated.png" /></p>
-<p>The datasets are available via the <a href="https://codalab.lisn.upsaclay.fr/competitions/7320">CodaLab competition website</a></p>
-<h2 id="starter-kit">Starter kit</h2>
-<p>We provide a <a href="https://github.com/afrisenti-semeval/afrisent-semeval-2023">Starter Ki</a>t on our GitHub Repo that can be used to crearte a baseline system.</p>
 
-<h2 id="why-participate">Why Participate ?</h2>
-<ul>
-<li>Promote NLP research involving African languages,</li>
-<li>Opportunity to write a system-description paper that describes their system, resources used, results, and analysis.</li>
-<li>Stand a chance to win an award.</li>
-<li>Opportunity to network with renowned experts in the AI and NLP community.</li>
-</ul>
-<p><span style="font-size: 10px;"><strong style="font-size: 1.5em;">Resources on Paper Submission</strong></span></p>
-<ul>
-<li><a href="https://semeval.github.io/paper-requirements.html">Paper Submission Requirements</a></li>
-<li><a href="https://semeval.github.io/system-paper-template.html">Guidelines for Writing Papers</a></li>
-<li><a href="https://github.com/acl-org/acl-style-files">Paper Style Files</a></li>
-<li><a href="https://softconf.com/acl2023/SemEval2023/
-">Paper Submission Site</a></li>
-</ul>
+<p><strong>Task B: Monolingual Sentiment Classification</strong></p>
+</blockquote>
+<p>Given training data in a target language, determine the polarity of a tweet in the target language (positive, negative, or neutral). If a tweet conveys both a positive and negative sentiment, whichever is the stronger sentiment should be chosen. This sub-task has 15 tracks:</p>
 
 <h2 id="important-dates"><strong>Important Dates</strong></h2>
 <table>
@@ -263,64 +170,47 @@ url={https://arxiv.org/pdf/2302.08956.pdf}
 </tr>
 <tr>
 <td>Training Data Ready</td>
-<td><s> 11 September 2022</s></td>
+<td>01 September 2023</td>
 </tr>
 <tr>
 <td>Evaluation Start</td>
-<td><s>10 January 2023</s></td>
+<td>10 January 2024</td>
 </tr>
 <tr>
 <td>Evaluation End</td>
-<td><s>31 January 2023</s></td>
+<td>31 January 2024</td>
 </tr>
 <tr>
 <td>System Description Paper Due</td>
-<td>28th February 2023</td>
+<td>29 February 2024</td>
 </tr>
 <tr>
 <td>Notification to authors</td>
-<td>31 March 2023</td>
+<td>1 April 2024</td>
 </tr>
 <tr>
 <td>Camera ready due</td>
-<td>21 April 2023</td>
+<td>22 April 2024</td>
 </tr>
 <tr>
 <td>SemEval workshop 2023</td>
-<td>13-14 July 2023 (co-located with ACL-2023 in Toronto, Canada</td>
+<td>TBD (co-located with a major NLP conference)</td>
 </tr>
 </tbody>
 </table>
 <p>All deadlines are 23:59 UTC-12 ("anywhere on Earth").</p>
-<h2 id="communication"><strong>Communication</strong></h2>
-<ul>
-<li>Join <a href="https://groups.google.com/g/afrisenti-semeval">Task Mailing List</a></li>
-<li>Join <a href="https://join.slack.com/t/afrisenti-semeval/shared_invite/zt-1fds98x1u-L3c~bpBI91IWRD80_Fy23Q">Task Slack Channel</a> to communicate with the organizers.</li>
-<li>Contact Organizers: <a href="mailto:afrisenti-semeval-organizers@googlegroups.com">afrisenti-semeval-organizers@googlegroups.com</a></li>
-</ul>
-<h2 id="previous-shared-tasks"><strong>Previous Shared Tasks</strong></h2>
+<!-- ## **Communication**
+
+- Join [Task Mailing List](https://groups.google.com/g/afrisenti-semeval)
+- Join [Task Slack Channel](https://join.slack.com/t/afrisenti-semeval/shared_invite/zt-1fds98x1u-L3c~bpBI91IWRD80_Fy23Q) to communicate with the organizers.
+- Contact Organizers: [afrisenti-semeval-organizers@googlegroups.com](mailto:afrisenti-semeval-organizers@googlegroups.com) -->
+
+<h2 id="references"><strong>References</strong></h2>
 <ol>
-<li>
-<p>Shared tasks in English:<a href="https://alt.qcri.org/semeval2017/task4/">SemEval-2017</a>,<a href="https://alt.qcri.org/semeval2016/task4/">SemEval-2016</a>,<a href="https://alt.qcri.org/semeval2015/task10/">SemEval-2015</a>,<a href="https://alt.qcri.org/semeval2014/task9/">SemEval-2014</a>,<a href="https://aclanthology.org/S13-2052/">SemEval-2013</a></p>
-</li>
-<li>
-<p>Shared tasks in Spanish <a href="http://www.sepln.org/workshops/tass/2017/">TASS-2017</a>,<a href="http://www.sepln.org/workshops/tass/2016/tass2016.php">TASS-2016</a>,<a href="http://www.sepln.org/workshops/tass/2015/tass2015.php">TASS-2015</a>,<a href="http://www.sepln.org/workshops/tass/2014/tass2014.php">TASS-2014</a>,<a href="https://competitions.codalab.org/competitions/17751#learn_the_details-overview">TASS-2013</a>,<a href="http://www.sepln.org/workshops/tass/2012/tasks.php">TASS-2012</a>.</p>
-</li>
+<li>George A Miller and Walter G Charles. 1991. Contex-
+tual Correlates of Semantic Similarity. Language
+and Cognitive Processes, 6(1):1–28</li>
 </ol>
-<h2 id="references">References</h2>
-<ol>
-<li>UNESCO. 2003. Sharing the world of difference. UNESCO.</li>
-<li>Mohammad, Saif M. "Ethics sheet for automatic emotion recognition and sentiment analysis." Computational Linguistics 48.2 (2022): 239-278.</li>
-<li>Preslav Nakov, Sara Rosenthal, Svetlana Kiritchenko, Saif M Mohammad, Zornitsa Kozareva, Alan Ritter, Veselin Stoyanov, and Xiaodan Zhu. 2016. Developing a successful SemEval task in sentiment analysis of twitter and other social media texts. Language Resources and Evaluation, 50(1):35–65.</li>
-<li>Mohammad, Saif, et al. "Semeval-2018 task 1: Affect in tweets." Proceedings of the 12th international workshop on semantic evaluation. 2018.</li>
-<li>Maria Pontiki, Dimitris Galanis, John Pavlopoulos, Harris Papageorgiou, Ion Androutsopoulos, Suresh Manandhar. 2014: SemEval-2014 Task 4: Aspect Based Sentiment Analysis, Dublin, Ireland</li>
-<li>Saif Mohammad. 2016. A Practical Guide to Sentiment Annotation: Challenges and Solutions. In Proceedings of the 7th Workshop on Computational Approaches to Subjectivity, Sentiment and Social Media Analysis, pages 174–179, San Diego, California. Association for Computational Linguistics.</li>
-<li>Aniruddha Ghosh, Guofu Li, Tony Veale, Paolo Rosso, Ekaterina Shutova, John Barnden, Antonio Reyes. 2015: SemEval-2015 Task 11: Sentiment Analysis of Figurative Language in Twitter, Denver, Colorado</li>
-<li>Shamsuddeen Hassan Muhammad, David Ifeoluwa Adelani, Sebastian Ruder, Ibrahim Said Ahmad, Idris Abdulmumin, Bello Shehu Bello, Monojit Choudhury, Chris Chinenye Emezue, Saheed Salahudeen Abdullahi, Anuoluwapo Aremu, Alipio Jeorge, Pavel Brazdil. 2022, NaijaSenti: A Nigerian Twitter Sentiment Corpus for Multilingual Sentiment Analysis, Marseille, France</li>
-<li>Seid Muhie Yimam, Hizkiel Mitiku Alemayehu, Abinew Ayele, Chris Biemann. 2020: Exploring Amharic Sentiment Analysis from Social Media Texts: Building Annotation Tools and Classification Models, Barcelona, Spain (Online)</li>
-</ol>
-<h2 id="funding-acknowledgements">Funding Acknowledgements</h2>
-<p>This prize award for this shared task was generously supported by a grant from Lacuna Fund.</p>
 <style>
 body {
 text-align: justify}
@@ -405,5 +295,5 @@ text-align: justify}
 
 <!--
 MkDocs version : 1.4.3
-Build Date UTC : 2023-07-17 14:35:00.582412+00:00
+Build Date UTC : 2023-07-17 17:08:29.945468+00:00
 -->
