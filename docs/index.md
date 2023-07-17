@@ -82,6 +82,8 @@ All deadlines are 23:59 UTC-12 ("anywhere on Earth").
 tual Correlates of Semantic Similarity. Language
 and Cognitive Processes, 6(1):1–28
 
+2. Abdalla, Mohamed, Krishnapriya Vishnubhotla, and Saif M. Mohammad. "What makes sentences semantically related: A textual relatedness dataset and empirical study." arXiv preprint arXiv:2110.04845 (2021).
+
 
 
 
