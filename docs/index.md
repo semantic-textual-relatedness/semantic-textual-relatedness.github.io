@@ -17,11 +17,8 @@ SemEval 2024 Task 1: Semantic Textual Relatedness Shared Task
 
 <!-- <center> -->
 
-<!-- g
-<!-- 
->  [Visit CodaLab competition website](https://codalab.lisn.upsaclay.fr/competitions/7320) -->
 
-
+<!-- >  [Visit CodaLab competition website](https://codalab.lisn.upsaclay.fr/competitions/7320) -->
 
 <!-- <font size=3> <span style="color: blue;"> AfriSenti dataset is available at task's:[GitHub repo](https://github.com/afrisenti-semeval/afrisent-semeval-2023) </span> </font>
  -->
