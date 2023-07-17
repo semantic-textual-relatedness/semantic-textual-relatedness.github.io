@@ -30,7 +30,7 @@
 </tr>
 
 <tr>
-<td><a href="https://priya22.github.io"></a>Krishnapriya Vishnubhotla</td>
+<td><a href="https://priya22.github.io">Krishnapriya Vishnubhotla</a></td>
 <td>University of Toronto</td>
 <td>&nbsp;vkpriya@cs.toronto.edu</td>
 </tr>
