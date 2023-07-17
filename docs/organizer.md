@@ -50,32 +50,32 @@
 
 <tr>
 <td><a href="https://belomeriem.github.io">Organizer</a></td>
-<td>Uppsala University</td>
-<td>&nbsp;meriem.beloucif@lingfil.uu.se</td>
+<td> University</td>
+<td>&nbsp;mail</td>
 </tr>
 
 
 
 <tr>
 <td><a href="https://belomeriem.github.io">Organizer</a></td>
-<td>Uppsala University</td>
-<td>&nbsp;meriem.beloucif@lingfil.uu.se</td>
+<td>  University</td>
+<td>&nbsp;mail</td>
 </tr>
 
 
 
 <tr>
 <td><a href="https://belomeriem.github.io">Organizer</a></td>
-<td>Uppsala University</td>
-<td>&nbsp;meriem.beloucif@lingfil.uu.se</td>
+<td> University</td>
+<td>&nbsp;mail</td>
 </tr>
 
 
 
 <tr>
 <td><a href="https://belomeriem.github.io">Meriem Beloucif</a></td>
-<td>Uppsala University</td>
-<td>&nbsp;meriem.beloucif@lingfil.uu.se</td>
+<td> University</td>
+<td>&nbsp;mail</td>
 </tr>
 
 
