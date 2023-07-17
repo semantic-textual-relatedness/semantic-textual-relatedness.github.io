@@ -47,6 +47,38 @@
 <td>&nbsp;meriem.beloucif@lingfil.uu.se</td>
 </tr>
 
+
+<tr>
+<td><a href="https://belomeriem.github.io">Organizer</a></td>
+<td>Uppsala University</td>
+<td>&nbsp;meriem.beloucif@lingfil.uu.se</td>
+</tr>
+
+
+
+<tr>
+<td><a href="https://belomeriem.github.io">Organizer</a></td>
+<td>Uppsala University</td>
+<td>&nbsp;meriem.beloucif@lingfil.uu.se</td>
+</tr>
+
+
+
+<tr>
+<td><a href="https://belomeriem.github.io">Organizer</a></td>
+<td>Uppsala University</td>
+<td>&nbsp;meriem.beloucif@lingfil.uu.se</td>
+</tr>
+
+
+
+<tr>
+<td><a href="https://belomeriem.github.io">Meriem Beloucif</a></td>
+<td>Uppsala University</td>
+<td>&nbsp;meriem.beloucif@lingfil.uu.se</td>
+</tr>
+
+
 </tbody>
 </table>
 
