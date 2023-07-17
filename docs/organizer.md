@@ -18,23 +18,22 @@
 </tr>
 
 <tr>
-<td><a href="https://www.hausanlp.org/author/shamsuddeen-hassan-muhammad/">Shamsuddeen Hassan Muhammad</a></td>
+<td><a href="https://shmuhammadd.github.io">Shamsuddeen Hassan Muhammad</a></td>
 <td>Bayero University, Kano, Masakhane</td>
 <td>&nbsp;shmuhammad.csc@buk.edu.ng</td>
 </tr>
 
 <tr>
-<td><a href="https://www.saifmohammad.com/">Mohamed Abdalla</a></td>
+<td><a href="https://www.cs.toronto.edu/~msa/">Mohamed Abdalla</a></td>
 <td>Institute for Better Health, Canada</td>
 <td>&nbsp;msa@cs.toronto.edu</td>
 </tr>
 
 <tr>
-<td><a href="https://www.saifmohammad.com/">Mohamed Abdalla</a></td>
-<td>Institute for Better Health, Canada</td>
-<td>&nbsp;msa@cs.toronto.edu</td>
+<td><a href="https://priya22.github.io"></a>Krishnapriya Vishnubhotla</td>
+<td>University of Toronto</td>
+<td>&nbsp;vkpriya@cs.toronto.edu</td>
 </tr>
-
 
 <tr>
 <td><a href="https://www.saifmohammad.com/">Saif M. Mohammad</a></td>
