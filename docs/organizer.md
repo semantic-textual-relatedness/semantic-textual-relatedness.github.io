@@ -35,11 +35,6 @@
 <td>&nbsp;vkpriya@cs.toronto.edu</td>
 </tr>
 
-<tr>
-<td><a href="https://www.saifmohammad.com/">Saif M. Mohammad</a></td>
-<td>National Research Council, Canada</td>
-<td>&nbsp;uvgotsaif@gmail.com</td>
-</tr>
 
 <tr>
 <td><a href="https://www.hausanlp.org/author/idris-abdulmuminu/">Idris Abdulmumin</a></td>
@@ -48,9 +43,21 @@
 </tr>
 
 <tr>
+<td><a href="https://www.saifmohammad.com/">Saif M. Mohammad</a></td>
+<td>National Research Council, Canada</td>
+<td>&nbsp;uvgotsaif@gmail.com</td>
+</tr>
+
+<tr>
 <td><a href="https://seyyaw.github.io">Seid Muhie Yimam</a></td>
 <td>Universit&auml;t Hamburg, Hamburg; Masakhane&nbsp; &nbsp;</td>
 <td>&nbsp;seid.muhie.yimam@uni-hamburg.de</td>
+</tr>
+
+<tr>
+<td><a href="https://vgaraujov.github.io">Vladimir Araujo</a></td>
+<td> Pontificia Universidad Católica de Chile and KU Leuven</td>
+<td>&nbsp;vgaraujov@uc.cl</td>
 </tr>
 
 <tr>
@@ -61,18 +68,11 @@
 
 
 <tr>
-<td><a href="https://belomeriem.github.io">Organizer</a></td>
-<td> University</td>
-<td>&nbsp;mail</td>
+<td><a href="http://solorio.uh.edu">Thamar Solorio</a></td>
+<td> University of Houston</td>
+<td>&nbsp;thamar.solorio@gmail.com</td>
 </tr>
 
-
-
-<tr>
-<td><a href="https://belomeriem.github.io">Organizer</a></td>
-<td>  University</td>
-<td>&nbsp;mail</td>
-</tr>
 
 
 
