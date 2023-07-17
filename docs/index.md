@@ -41,16 +41,17 @@ However, much of past NLP work is on semantic similarity, and largely focused on
 is the task of predicting semantic textual relatedness (STR) of sentence pairs. Participants will rank sentence pairs by their closeness in meaning (i.e., their degree of semantic relatedness) in 14 languages predominantly from Africa and Asia. All sentence pairs will have manually determined relatedness scores between 0 (completely unrelated) and 1 (maximally related). It consists of two sub-tasks. Participants can select one or more sub-tasks depending on their preference.</p>
 
 
-<blockquote>
-<p><strong>Task A: Unsupervised</strong></p>
-</blockquote>
-<p> In this subtask, participants are expected to submit systems that have been developed without the use of any labeled datasets pertaining to semantic relatedness. </p>
 
 <p><strong>Task B: Supervised</strong></p>
 </blockquote>
 <p> In this subtask, participants submit systems that have been trained using the provided labeled datasets (with scores ranging from 0 to 1 representing the degree of semantic textual relatedness). These datasets contain pairs of sentences that have been manually scored based on their degree of relatedness.</p>
 
 
+
+<blockquote>
+<p><strong>Task A: Unsupervised</strong></p>
+</blockquote>
+<p> In this subtask, participants are expected to submit systems that have been developed without the use of any labeled datasets pertaining to semantic relatedness. </p>
 
 ## **Important Dates**
 
