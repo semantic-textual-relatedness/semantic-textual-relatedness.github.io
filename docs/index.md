@@ -38,17 +38,17 @@ However, much of past NLP work is on semantic similarity, and largely focused on
 
 ## **Task Overview**
 <p>The <strong> Semantic Textual Relatedness Shared Task 1</strong> 
-is the task of predicting semantic textual relatedness (STR) of sentence pairs. Participants will rank sentence pairs by their closeness in meaning (i.e., their degree of semantic relatedness) \cite{mohammad2008measuring} in 14 languages predominantly from Africa and Asia. All sentence pairs will have manually determined relatedness scores between 0 (completely unrelated) and 1 (maximally related). It consists of two sub-tasks. Participants can select one or more sub-tasks depending on their preference.</p>
+is the task of predicting semantic textual relatedness (STR) of sentence pairs. Participants will rank sentence pairs by their closeness in meaning (i.e., their degree of semantic relatedness) in 14 languages predominantly from Africa and Asia. All sentence pairs will have manually determined relatedness scores between 0 (completely unrelated) and 1 (maximally related). It consists of two sub-tasks. Participants can select one or more sub-tasks depending on their preference.</p>
 
 
 <blockquote>
-<p><strong>Task A: Monolingual Sentiment Classification</strong></p>
+<p><strong>Task A: Unsupervised</strong></p>
 </blockquote>
-<p>Given training data in a target language, determine the polarity of a tweet in the target language (positive, negative, or neutral). If a tweet conveys both a positive and negative sentiment, whichever is the stronger sentiment should be chosen. This sub-task has 15 tracks:</p>
+<p> where systems cannot use any semantic relatedness or semantic similarity labeled datasets for training. </p>
 
-<p><strong>Task B: Monolingual Sentiment Classification</strong></p>
+<p><strong>Task B: Supervised</strong></p>
 </blockquote>
-<p>Given training data in a target language, determine the polarity of a tweet in the target language (positive, negative, or neutral). If a tweet conveys both a positive and negative sentiment, whichever is the stronger sentiment should be chosen. This sub-task has 15 tracks:</p>
+<p> where systems can use the provided STR training datasets, as well as any other similarity or relatedness resources.</p>
 
 
 
