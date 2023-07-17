@@ -2,7 +2,7 @@
 
 We provide some useful information about SemEval shared task. 
 
-1. [SemEval 2023 Shared Tasks](https://semeval.github.io/SemEval2023/tasks)
+1. [SemEval 2024 Shared Tasks](https://semeval.github.io/SemEval2024/tasks)
    
 2. [Frequently Asked Questions about SemEval](https://semeval.github.io/faq.html)
 
