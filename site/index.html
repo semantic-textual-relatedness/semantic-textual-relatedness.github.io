@@ -1,0 +1,409 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta name="description" content="None">
+        
+        <link rel="canonical" href="https://example.com/">
+        <link rel="shortcut icon" href="img/favicon.ico">
+        <title>Semantic Relatedness Shared Task</title>
+        <link href="css/bootstrap.min.css" rel="stylesheet">
+        <link href="css/font-awesome.min.css" rel="stylesheet">
+        <link href="css/base.css" rel="stylesheet">
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.5.0/styles/github.min.css">
+
+        <script src="js/jquery-1.10.2.min.js" defer></script>
+        <script src="js/bootstrap.min.js" defer></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.5.0/highlight.min.js"></script>
+        <script>hljs.initHighlightingOnLoad();</script> 
+    </head>
+
+    <body class="homepage">
+        <div class="navbar fixed-top navbar-expand-lg navbar-dark bg-primary">
+            <div class="container">
+                <a class="navbar-brand" href=".">Semantic Relatedness Shared Task</a>
+                <!-- Expander button -->
+                <button type="button" class="navbar-toggler" data-toggle="collapse" data-target="#navbar-collapse">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+
+                <!-- Expanded navigation -->
+                <div id="navbar-collapse" class="navbar-collapse collapse">
+                        <!-- Main navigation -->
+                        <ul class="nav navbar-nav">
+                            <li class="navitem active">
+                                <a href="." class="nav-link">Home</a>
+                            </li>
+                            <li class="navitem">
+                                <a href="participation/" class="nav-link">Participation</a>
+                            </li>
+                            <li class="navitem">
+                                <a href="Resources/" class="nav-link">Resources</a>
+                            </li>
+                            <li class="navitem">
+                                <a href="organizer/" class="nav-link">Organizers</a>
+                            </li>
+                            <li class="navitem">
+                                <a href="Terms/" class="nav-link">Terms</a>
+                            </li>
+                            <li class="navitem">
+                                <a href="results/" class="nav-link">Results</a>
+                            </li>
+                            <li class="navitem">
+                                <a href="prizes/" class="nav-link">Awards</a>
+                            </li>
+                        </ul>
+
+                    <ul class="nav navbar-nav ml-auto">
+                        <li class="nav-item">
+                            <a href="#" class="nav-link" data-toggle="modal" data-target="#mkdocs_search_modal">
+                                <i class="fa fa-search"></i> Search
+                            </a>
+                        </li>
+                            <li class="nav-item">
+                                <a rel="prev" class="nav-link disabled">
+                                    <i class="fa fa-arrow-left"></i> Previous
+                                </a>
+                            </li>
+                            <li class="nav-item">
+                                <a rel="next" href="participation/" class="nav-link">
+                                    Next <i class="fa fa-arrow-right"></i>
+                                </a>
+                            </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+
+        <div class="container">
+            <div class="row">
+                    <div class="col-md-3"><div class="navbar-light navbar-expand-md bs-sidebar hidden-print affix" role="complementary">
+    <div class="navbar-header">
+        <button type="button" class="navbar-toggler collapsed" data-toggle="collapse" data-target="#toc-collapse" title="Table of Contents">
+            <span class="fa fa-angle-down"></span>
+        </button>
+    </div>
+
+    
+    <div id="toc-collapse" class="navbar-collapse collapse card bg-secondary">
+        <ul class="nav flex-column">
+            
+            <li class="nav-item" data-level="1"><a href="#afrisenti-semeval-shared-task-12" class="nav-link">AfriSenti-SemEval Shared Task 12</a>
+              <ul class="nav flex-column">
+            <li class="nav-item" data-level="2"><a href="#motivation" class="nav-link">Motivation</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#task-overview" class="nav-link">Task Overview</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#dataset-examples" class="nav-link">Dataset Examples</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#starter-kit" class="nav-link">Starter kit</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#why-participate" class="nav-link">Why Participate ?</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#important-dates" class="nav-link">Important Dates</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#communication" class="nav-link">Communication</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#previous-shared-tasks" class="nav-link">Previous Shared Tasks</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#references" class="nav-link">References</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#funding-acknowledgements" class="nav-link">Funding Acknowledgements</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+              </ul>
+            </li>
+        </ul>
+    </div>
+</div></div>
+                    <div class="col-md-9" role="main">
+
+<p><center></p>
+<h1 id="afrisenti-semeval-shared-task-12"><strong>AfriSenti-SemEval Shared Task 12</strong></h1>
+<p>AfriSenti-SemEval: Sentiment Analysis for African Languages</p>
+<blockquote>
+<p>Part of the <a href="https://semeval.github.io/SemEval2023/tasks.html">17th International Workshop on Semantic Evaluation</a>
+</center></p>
+</blockquote>
+<p><font size=3> <span style="color: blue;"> Please use the following BibTex entry to cite us if you use our dataset: </span> </font></p>
+<p><strong><cite><a href="https://arxiv.org/pdf/2304.06845.pdf">SemEval-2023 Task 12: Sentiment Analysis for African Languages
+(AfriSenti-SemEval)</a>.</cite></strong> </p>
+<pre id="citeBibtexContent" class="bg-light border p-2">@inproceedings
+{muhammadSemEval2023,
+title = {{SemEval-2023 Task 12: Sentiment Analysis for African Languages (AfriSenti-SemEval)}},
+author = {Shamsuddeen Hassan Muhammad and Idris Abdulmumin and Seid Muhie Yimam and David Ifeoluwa Adelani and Ibrahim Sa'id Ahmad and Nedjma Ousidhoum and Abinew Ali Ayele and Saif M. Mohammad and Meriem Beloucif and Sebastian Ruder},
+booktitle = {Proceedings of the 17th {{International Workshop}} on {{Semantic Evaluation}} ({{SemEval-2023}})},
+publisher = {{Association for Computational Linguistics}},
+year = {2023},
+url = {https://arxiv.org/pdf/2304.06845.pdf}
+}</pre>
+
+<p><strong><cite><a href="https://arxiv.org/pdf/2302.08956.pdf">AfriSenti: A Twitter Sentiment Analysis Benchmark for African
+Languages</a>.</cite></strong> </p>
+<pre id="citeBibtexContent" class="bg-light border p-2">@misc
+{muhammad2023afrisenti,
+title={{AfriSenti: A Twitter Sentiment Analysis Benchmark for African Languages}},
+author={Shamsuddeen Hassan Muhammad and Idris Abdulmumin and Abinew Ali Ayele and Nedjma Ousidhoum and David Ifeoluwa Adelani and Seid Muhie Yimam and Ibrahim Sa'id Ahmad and Meriem Beloucif and Saif M. Mohammad and Sebastian Ruder and Oumaima Hourrane and Pavel Brazdil and Felermino Dário Mário António Ali and Davis David and Salomey Osei and Bello Shehu Bello and Falalu Ibrahim and Tajuddeen Gwadabe and Samuel Rutunda and Tadesse Belay and Wendimu Baye Messelle and Hailu Beshada Balcha and Sisay Adugna Chala and Hagos Tesfahun Gebremichael and Bernard Opoku and Steven Arthur},
+year={2023},
+doi={10.48550/arXiv.2302.08956},
+url={https://arxiv.org/pdf/2302.08956.pdf}
+}</pre>
+
+<p><center></p>
+<blockquote>
+<p>Contact organizers at: <a href="mailto:afrisenti-semeval-organizers@googlegroups.com">afrisenti-semeval-organizers@googlegroups.com</a></p>
+<p><a href="https://codalab.lisn.upsaclay.fr/competitions/7320">Visit CodaLab competition website</a></p>
+</blockquote>
+<p><font size=3> <span style="color: blue;"> AfriSenti dataset is available at task's:<a href="https://github.com/afrisenti-semeval/afrisent-semeval-2023">GitHub repo</a> </span> </font></p>
+<p></center></p>
+<hr />
+<h2 id="motivation"><strong>Motivation</strong></h2>
+<p>Due to the widespread use of the Internet and social media platforms, most languages are becoming digitally available. This allows for various artificial intelligence (AI) applications that enable tasks such as sentiment analysis, machine translation and hateful content detection. According to UNESCO (2003), 30% of all living languages, around 2,058, are African languages. However, most of these languages do not have curated datasets for developing such AI applications. Recently, various individual and funded initiatives, such as the Lacuna Fund, have set out to reverse this trend and create such datasets for African languages. However, research is required to determine both the suitability of current natural language processing (NLP) techniques and the development of novel techniques to maximize the applications of such datasets.</p>
+<p>There has been a growing interest in sentiment analysis which applies to many domains, including public health, commerce/business, art and literature, social sciences, neuroscience, and psychology (<cite>Mohammad, Saif M, 2022</cite>). Previous shared tasks on sentiment analysis include <cite>Mohammad, Saif M et al., (2018), Nakov et al., (2016), Pontiki et al., Ghosh et al., (2015), (2014), and so on</cite>. However, none of these tasks included African languages. Though <cite> Mohammad, Saif, et al. (2018)</cite> included standard Arabic, we focus on Arabic dialects from African countries: <cite>Algerian Arabic</cite> and <cite>Tunisian Arabizi</cite>. We believe SemEval is the right venue, due to its popularity and widespread acceptance, to carry out shared tasks for African languages to strengthen their further development.</p>
+
+<p>In this shared task, we have covered 17 African languages, <a href="https://en.wikipedia.org/wiki/Hausa_language">Hausa</a>, <a href="https://en.wikipedia.org/wiki/Yoruba_language">Yoruba</a>, <a href="https://en.wikipedia.org/wiki/Igbo_language">Igbo</a>, <a href="https://en.wikipedia.org/wiki/Nigerian_Pidgin">Nigerian </a>Pidgin from Nigeria, <a href="https://en.wikipedia.org/wiki/Amharic, and Oromo">Amharic</a>, <a href="https://en.wikipedia.org/wiki/Tigrinya_language">Tigrinya</a>, and <a href="https://en.wikipedia.org/wiki/Oromo_language">Oromo</a> from Ethiopia, <a href="https://en.wikipedia.org/wiki/Swahili_language">Swahili</a> from Kenya and Tanzania, <a href="https://en.wikipedia.org/wiki/Algerian_Arabic">Algerian Arabic</a> dialect from Algeria, <a href="https://en.wikipedia.org/wiki/Kinyarwanda">Kinyarwanda</a> from Rwanda, <a href="https://en.wikipedia.org/wiki/Twi">Twi</a> from Ghana, <a href="https://www.google.com/search?client=safari&amp;rls=en&amp;q=Mozabique+portuguess&amp;ie=UTF-8&amp;oe=UTF-8">Mozambique Portuguese</a> from Mozambique &nbsp;and <a href="https://en.wikipedia.org/wiki/Moroccan_Arabic">Moroccan Arabic/Darija</a> from Morocco.</p>
+
+<h2 id="task-overview"><strong>Task Overview</strong></h2>
+<p>The <strong>AfriSenti-SemEval Shared Task 12</strong> is based on a collection of Twitter datasets in 14 African languages for sentiment classification. It consists of three sub-tasks. Participants can select one or more sub-tasks depending on their preference. In each sub-task also, the participant may wish to participate in any number of languages as so wished.</p>
+<blockquote>
+<p><strong>Task A: Monolingual Sentiment Classification</strong></p>
+</blockquote>
+<p>Given training data in a target language, determine the polarity of a tweet in the target language (positive, negative, or neutral). If a tweet conveys both a positive and negative sentiment, whichever is the stronger sentiment should be chosen. This sub-task has 15 tracks:</p>
+<p><strong>Note: You are free to select one or more tracks in this sub-task.<br /></strong></p>
+<ul>
+<li>Track 1: Hausa&nbsp;</li>
+<li>Track 2: Yoruba</li>
+<li>Track 3: Igbo</li>
+<li>Track 4: Nigerian_Pidgin</li>
+<li>Track 5: Amharic</li>
+<li>Track 6: Algerian Arabic</li>
+<li>Track 7: Moroccan Arabic/Darija,</li>
+<li>Track 8: Swahili</li>
+<li>Track 9: Kinyarwanda</li>
+<li>Track 10: Twi</li>
+<li>Track 11: Mozambican Portuguese</li>
+<li>Track 12: Xitsonga&nbsp;(<strong>Mozambique Dialect</strong>)</li>
+<li><span style="text-decoration: line-through;">Track 13: Setswana (data to be released soon)</span></li>
+<li><span style="text-decoration: line-through;">Track 14: isiZulu (data to be released soon)</span></li>
+<li><span style="text-decoration: line-through;">Track 15: Xitsonga (South-African Dialect, to be released soon)</span></li>
+</ul>
+<p><strong>Note: Tweets in each language are code-mix. Read our <a href="https://arxiv.org/pdf/2201.08277.pdf">NaijaSenti</a> paper for more information.</strong></p>
+<blockquote>
+<p><strong>Task B: Multilingual Sentiment Classification</strong></p>
+</blockquote>
+<p>Given combined training data from Task-A (Track 1 to 12), determine the polarity of a tweet in the target language (positive, negative, or neutral). This sub-task has only one track with 12 languages <strong style="color: blue;">(Hausa, Yoruba, Igbo, Nigerian_Pidgin, Amharic, Algerian Arabic, Moroccan Arabic/Darija, Swahili, Kinyarwanda, Twi, Mozambican Portuguese, and Xitsonga(<strong>Mozambique Dialect</strong>)):</strong></p>
+<ul>
+<li>Track 16: 12 languages in Task A</li>
+</ul>
+<blockquote>
+<p><strong>Task C: Zero-Shot Sentiment Classification</strong></p>
+</blockquote>
+<p>Given unlabelled tweets in two African languages (Tigrinya and Oromo), leverage any or all of the available training datasets (in Task:A ) to determine the sentiment of a tweet in the two target languages. This task has two (2) tracks.</p>
+<p><strong>Note: You are free to select one or more tracks in this sub-task.</strong></p>
+<ul>
+<li>Track 17: Zero-Shot on Tigrinya</li>
+<li>Track 18: Zero-Shot on Oromo</li>
+</ul>
+<h2 id="dataset-examples"><strong>Dataset Examples</strong></h2>
+<p>The dataset involves tweets labeled with three sentiment classes (positive, negative, neutral) in 14 African languages. Each tweet is annotated by three annotators following the annotation guidelines in (<cite>Mohammad, Saif M, 2016</cite>). We use a form of majority vote to determine the sentiment of the tweet. See more in our paper (<cite>Muhammad et al., 2022</cite>, <cite>Yimam et al., 2020</cite>). Below is a sample dataset for the 4 Nigerian languges (Muhammad et al., 2022):</p>
+<p><img alt="Dataset Example" src="dataset_updated.png" /></p>
+<p>The datasets are available via the <a href="https://codalab.lisn.upsaclay.fr/competitions/7320">CodaLab competition website</a></p>
+<h2 id="starter-kit">Starter kit</h2>
+<p>We provide a <a href="https://github.com/afrisenti-semeval/afrisent-semeval-2023">Starter Ki</a>t on our GitHub Repo that can be used to crearte a baseline system.</p>
+
+<h2 id="why-participate">Why Participate ?</h2>
+<ul>
+<li>Promote NLP research involving African languages,</li>
+<li>Opportunity to write a system-description paper that describes their system, resources used, results, and analysis.</li>
+<li>Stand a chance to win an award.</li>
+<li>Opportunity to network with renowned experts in the AI and NLP community.</li>
+</ul>
+<p><span style="font-size: 10px;"><strong style="font-size: 1.5em;">Resources on Paper Submission</strong></span></p>
+<ul>
+<li><a href="https://semeval.github.io/paper-requirements.html">Paper Submission Requirements</a></li>
+<li><a href="https://semeval.github.io/system-paper-template.html">Guidelines for Writing Papers</a></li>
+<li><a href="https://github.com/acl-org/acl-style-files">Paper Style Files</a></li>
+<li><a href="https://softconf.com/acl2023/SemEval2023/
+">Paper Submission Site</a></li>
+</ul>
+
+<h2 id="important-dates"><strong>Important Dates</strong></h2>
+<table>
+<thead>
+<tr>
+<th>Descriptions</th>
+<th>Deadlines</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Sample Data Ready</td>
+<td><s>15 July 2022</s></td>
+</tr>
+<tr>
+<td>Training Data Ready</td>
+<td><s> 11 September 2022</s></td>
+</tr>
+<tr>
+<td>Evaluation Start</td>
+<td><s>10 January 2023</s></td>
+</tr>
+<tr>
+<td>Evaluation End</td>
+<td><s>31 January 2023</s></td>
+</tr>
+<tr>
+<td>System Description Paper Due</td>
+<td>28th February 2023</td>
+</tr>
+<tr>
+<td>Notification to authors</td>
+<td>31 March 2023</td>
+</tr>
+<tr>
+<td>Camera ready due</td>
+<td>21 April 2023</td>
+</tr>
+<tr>
+<td>SemEval workshop 2023</td>
+<td>13-14 July 2023 (co-located with ACL-2023 in Toronto, Canada</td>
+</tr>
+</tbody>
+</table>
+<p>All deadlines are 23:59 UTC-12 ("anywhere on Earth").</p>
+<h2 id="communication"><strong>Communication</strong></h2>
+<ul>
+<li>Join <a href="https://groups.google.com/g/afrisenti-semeval">Task Mailing List</a></li>
+<li>Join <a href="https://join.slack.com/t/afrisenti-semeval/shared_invite/zt-1fds98x1u-L3c~bpBI91IWRD80_Fy23Q">Task Slack Channel</a> to communicate with the organizers.</li>
+<li>Contact Organizers: <a href="mailto:afrisenti-semeval-organizers@googlegroups.com">afrisenti-semeval-organizers@googlegroups.com</a></li>
+</ul>
+<h2 id="previous-shared-tasks"><strong>Previous Shared Tasks</strong></h2>
+<ol>
+<li>
+<p>Shared tasks in English:<a href="https://alt.qcri.org/semeval2017/task4/">SemEval-2017</a>,<a href="https://alt.qcri.org/semeval2016/task4/">SemEval-2016</a>,<a href="https://alt.qcri.org/semeval2015/task10/">SemEval-2015</a>,<a href="https://alt.qcri.org/semeval2014/task9/">SemEval-2014</a>,<a href="https://aclanthology.org/S13-2052/">SemEval-2013</a></p>
+</li>
+<li>
+<p>Shared tasks in Spanish <a href="http://www.sepln.org/workshops/tass/2017/">TASS-2017</a>,<a href="http://www.sepln.org/workshops/tass/2016/tass2016.php">TASS-2016</a>,<a href="http://www.sepln.org/workshops/tass/2015/tass2015.php">TASS-2015</a>,<a href="http://www.sepln.org/workshops/tass/2014/tass2014.php">TASS-2014</a>,<a href="https://competitions.codalab.org/competitions/17751#learn_the_details-overview">TASS-2013</a>,<a href="http://www.sepln.org/workshops/tass/2012/tasks.php">TASS-2012</a>.</p>
+</li>
+</ol>
+<h2 id="references">References</h2>
+<ol>
+<li>UNESCO. 2003. Sharing the world of difference. UNESCO.</li>
+<li>Mohammad, Saif M. "Ethics sheet for automatic emotion recognition and sentiment analysis." Computational Linguistics 48.2 (2022): 239-278.</li>
+<li>Preslav Nakov, Sara Rosenthal, Svetlana Kiritchenko, Saif M Mohammad, Zornitsa Kozareva, Alan Ritter, Veselin Stoyanov, and Xiaodan Zhu. 2016. Developing a successful SemEval task in sentiment analysis of twitter and other social media texts. Language Resources and Evaluation, 50(1):35–65.</li>
+<li>Mohammad, Saif, et al. "Semeval-2018 task 1: Affect in tweets." Proceedings of the 12th international workshop on semantic evaluation. 2018.</li>
+<li>Maria Pontiki, Dimitris Galanis, John Pavlopoulos, Harris Papageorgiou, Ion Androutsopoulos, Suresh Manandhar. 2014: SemEval-2014 Task 4: Aspect Based Sentiment Analysis, Dublin, Ireland</li>
+<li>Saif Mohammad. 2016. A Practical Guide to Sentiment Annotation: Challenges and Solutions. In Proceedings of the 7th Workshop on Computational Approaches to Subjectivity, Sentiment and Social Media Analysis, pages 174–179, San Diego, California. Association for Computational Linguistics.</li>
+<li>Aniruddha Ghosh, Guofu Li, Tony Veale, Paolo Rosso, Ekaterina Shutova, John Barnden, Antonio Reyes. 2015: SemEval-2015 Task 11: Sentiment Analysis of Figurative Language in Twitter, Denver, Colorado</li>
+<li>Shamsuddeen Hassan Muhammad, David Ifeoluwa Adelani, Sebastian Ruder, Ibrahim Said Ahmad, Idris Abdulmumin, Bello Shehu Bello, Monojit Choudhury, Chris Chinenye Emezue, Saheed Salahudeen Abdullahi, Anuoluwapo Aremu, Alipio Jeorge, Pavel Brazdil. 2022, NaijaSenti: A Nigerian Twitter Sentiment Corpus for Multilingual Sentiment Analysis, Marseille, France</li>
+<li>Seid Muhie Yimam, Hizkiel Mitiku Alemayehu, Abinew Ayele, Chris Biemann. 2020: Exploring Amharic Sentiment Analysis from Social Media Texts: Building Annotation Tools and Classification Models, Barcelona, Spain (Online)</li>
+</ol>
+<h2 id="funding-acknowledgements">Funding Acknowledgements</h2>
+<p>This prize award for this shared task was generously supported by a grant from Lacuna Fund.</p>
+<style>
+body {
+text-align: justify}
+</style></div>
+            </div>
+        </div>
+
+        <footer class="col-md-12">
+            <hr>
+            <p>Documentation built with <a href="https://www.mkdocs.org/">MkDocs</a>.</p>
+        </footer>
+        <script>
+            var base_url = ".",
+                shortcuts = {"help": 191, "next": 78, "previous": 80, "search": 83};
+        </script>
+        <script src="js/base.js" defer></script>
+        <script src="search/main.js" defer></script>
+
+        <div class="modal" id="mkdocs_search_modal" tabindex="-1" role="dialog" aria-labelledby="searchModalLabel" aria-hidden="true">
+    <div class="modal-dialog modal-lg">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h4 class="modal-title" id="searchModalLabel">Search</h4>
+                <button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">&times;</span><span class="sr-only">Close</span></button>
+            </div>
+            <div class="modal-body">
+                <p>From here you can search these documents. Enter your search terms below.</p>
+                <form>
+                    <div class="form-group">
+                        <input type="search" class="form-control" placeholder="Search..." id="mkdocs-search-query" title="Type search term here">
+                    </div>
+                </form>
+                <div id="mkdocs-search-results" data-no-results-text="No results found"></div>
+            </div>
+            <div class="modal-footer">
+            </div>
+        </div>
+    </div>
+</div><div class="modal" id="mkdocs_keyboard_modal" tabindex="-1" role="dialog" aria-labelledby="keyboardModalLabel" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h4 class="modal-title" id="keyboardModalLabel">Keyboard Shortcuts</h4>
+                <button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">&times;</span><span class="sr-only">Close</span></button>
+            </div>
+            <div class="modal-body">
+              <table class="table">
+                <thead>
+                  <tr>
+                    <th style="width: 20%;">Keys</th>
+                    <th>Action</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr>
+                    <td class="help shortcut"><kbd>?</kbd></td>
+                    <td>Open this help</td>
+                  </tr>
+                  <tr>
+                    <td class="next shortcut"><kbd>n</kbd></td>
+                    <td>Next page</td>
+                  </tr>
+                  <tr>
+                    <td class="prev shortcut"><kbd>p</kbd></td>
+                    <td>Previous page</td>
+                  </tr>
+                  <tr>
+                    <td class="search shortcut"><kbd>s</kbd></td>
+                    <td>Search</td>
+                  </tr>
+                </tbody>
+              </table>
+            </div>
+            <div class="modal-footer">
+            </div>
+        </div>
+    </div>
+</div>
+
+    </body>
+</html>
+
+<!--
+MkDocs version : 1.4.3
+Build Date UTC : 2023-07-17 14:35:00.582412+00:00
+-->
