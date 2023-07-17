@@ -13,8 +13,8 @@
 
 <tr>
 <td><a href="https://nedjmaou.github.io">Nedjma Ousidhoum</a></td>
-<td>The University of Cambridge</td>
-<td>&nbsp;ndo24@cam.ac.uk</td>
+<td>Cardiff University </td>
+<td>&nbsp;OusidhoumN@cardiff.ac.uk</td>
 </tr>
 
 <tr>
@@ -22,6 +22,19 @@
 <td>Bayero University, Kano, Masakhane</td>
 <td>&nbsp;shmuhammad.csc@buk.edu.ng</td>
 </tr>
+
+<tr>
+<td><a href="https://www.saifmohammad.com/">Mohamed Abdalla</a></td>
+<td>Institute for Better Health, Canada</td>
+<td>&nbsp;msa@cs.toronto.edu</td>
+</tr>
+
+<tr>
+<td><a href="https://www.saifmohammad.com/">Mohamed Abdalla</a></td>
+<td>Institute for Better Health, Canada</td>
+<td>&nbsp;msa@cs.toronto.edu</td>
+</tr>
+
 
 <tr>
 <td><a href="https://www.saifmohammad.com/">Saif M. Mohammad</a></td>
