@@ -67,6 +67,7 @@ is the task of predicting semantic textual relatedness (STR) of sentence pairs. 
 
 All deadlines are 23:59 UTC-12 ("anywhere on Earth").
 
+## **Dataset**
 
 <!-- ## **Communication**
 
