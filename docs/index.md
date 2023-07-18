@@ -70,6 +70,7 @@ is the task of predicting semantic textual relatedness (STR) of sentence pairs. 
 All deadlines are 23:59 UTC-12 ("anywhere on Earth").
 
 ## **Dataset**
+https://github.com/semantic-textual-relatedness/Semantic_Relatedness_SemEval2024
 
 <!-- ## **Communication**
 
