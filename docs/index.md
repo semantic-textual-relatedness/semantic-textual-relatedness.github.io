@@ -42,14 +42,14 @@ is the task of predicting semantic textual relatedness (STR) of sentence pairs. 
 
 
 
-<p><strong>Task B: Supervised</strong></p>
+<p><strong>Task A: Supervised</strong></p>
 </blockquote>
 <p> In this subtask, participants submit systems that have been trained using the provided labeled datasets (with scores ranging from 0 to 1 representing the degree of semantic textual relatedness). These datasets contain pairs of sentences that have been manually scored based on their degree of relatedness.</p>
 
 
 
 <blockquote>
-<p><strong>Task A: Unsupervised</strong></p>
+<p><strong>Task B: Unsupervised</strong></p>
 </blockquote>
 <p> In this subtask, participants are expected to submit systems that have been developed without the use of any labeled datasets pertaining to semantic relatedness. </p>
 
