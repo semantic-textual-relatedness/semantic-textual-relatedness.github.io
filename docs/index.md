@@ -29,7 +29,7 @@ SemEval 2024 Task 1: Semantic Textual Relatedness
 ---
 ## **Motivation**
 
-The semantic relatedness of two language units has long been considered fundamental to understanding meaning (<cite> Halliday and Hassan 1976, Miller and Charles 1991</cite>), and automatically determining relatedness has many applications such as evaluating sentence representation methods, question answering, and summarization (<cite> Abdalla et al. 2021</cite>).
+The semantic relatedness of two language units has long been considered fundamental to understanding meaning (<cite>Halliday and Hassan 1976, Miller and Charles 1991</cite>), and automatically determining relatedness has many applications such as evaluating sentence representation methods, question answering, and summarization (<cite>Abdalla et al. 2021</cite>).
 
 Two sentences are considered semantically similar when they have a paraphrasal or entailment relation (e.g., <span style='color: blue;'>The boy scored the winning goal.</span>, <span style='color: blue;'>The boy scored the winning goal.</span>) On the other hand, relatedness is a much broader concept that accounts for all the commonalities between two sentences. For example, <span style='color: blue;'>The boy scored the winning goal </span> and <span style='color: blue;'>The boy's team moved onto the finals </span> would be related though not similar. 
 
