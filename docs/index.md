@@ -71,7 +71,7 @@ All deadlines are 23:59 UTC-12 ("anywhere on Earth").
 
 ## **Dataset**
 
-pilot dataset for the shared task is now available for access [here](https://github.com/semantic-textual-relatedness/Semantic_Relatedness_SemEval2024)
+Pilot dataset for the shared task is now available for access [here](https://github.com/semantic-textual-relatedness/Semantic_Relatedness_SemEval2024)
 
 <!-- ## **Communication**
 
