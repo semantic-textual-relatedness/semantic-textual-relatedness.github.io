@@ -29,12 +29,13 @@ SemEval 2024 Task 1: Semantic Textual Relatedness
 ---
 ## **Motivation**
 
-The semantic relatedness of two language units has long been considered fundamental to understanding meaning (<cite>George,A Miller, 1991</cite>), and automatically determining relatedness has many applications such as evaluating sentence representation methods, question answering, and summarization (<cite>abdalla,2021</cite>).
+The semantic relatedness of two language units has long been considered fundamental to understanding meaning (<cite> Halliday and Hassan 1976, Miller and Charles 1991</cite>), and automatically determining relatedness has many applications such as evaluating sentence representation methods, question answering, and summarization (<cite> Abdalla et al. 2021</cite>).
 
-Two sentences are considered semantically similar when they have a paraphrasal or entailment relation (e.g., <span style='color: blue;'>The boy scored the winning goal.</span>, <span style='color: blue;'>The boy scored the winning goal.</span>) On the other hand, relatedness is a much broader concept that accounts for all the commonalities between two sentences. For example  <span style='color: blue;'>The boy scored the winning goal </span> and <span style='color: blue;'>The boy's team moved onto the finals </span> would be related though not similar. 
+Two sentences are considered semantically similar when they have a paraphrasal or entailment relation (e.g., <span style='color: blue;'>The boy scored the winning goal.</span>, <span style='color: blue;'>The boy scored the winning goal.</span>) On the other hand, relatedness is a much broader concept that accounts for all the commonalities between two sentences. For example, <span style='color: blue;'>The boy scored the winning goal </span> and <span style='color: blue;'>The boy's team moved onto the finals </span> would be related though not similar. 
 
 <p>
-However, much of past NLP work is on semantic similarity, and largely focused on English. In this shared task, we have covered 14 languages predominantly from Africa and Asia (Algerian Arabic, Amharic, English, Hausa, Hindi, Indonesian, Kinyarwanda, Makhuwa, Modern Standard Arabic (MSA), Morrocan Arabic, Mozambican Portuguese, Punjabi, Spanish, and Yoruba). .</p>
+ 
+However, much of past NLP work is on semantic similarity, and largely focused on English. In this shared task, we cover English, Spanish, Modern Standard Arabic in addition to African and Asian languages, including Algerian Arabic, Amharic, English, Hausa, Hindi, Indonesian, Kinyarwanda, Makhuwa, Morrocan Arabic, Mozambican Portuguese, Punjabi, Spanish, and Yoruba.</p>
 
 ## **Task Overview**
 <p>The <strong> Semantic Textual Relatedness Shared Task 1</strong> 
@@ -57,8 +58,8 @@ is the task of predicting semantic textual relatedness (STR) of sentence pairs. 
 
 | Descriptions                 | Deadlines                                    |
 | ---------------------------- | -------------------------------------------- |
-| Sample Data Ready            | <s>15 July 2022</s>                          |
-| Training Data Ready          | 01 September 2023                            |
+| Sample Data Ready            | <s>17 July 2023</s>                          |
+| Training Data Ready          | 04 September 2023                            |
 | Evaluation Start             | 10 January 2024                              |
 | Evaluation End               | 31 January 2024                              |
 | System Description Paper Due | 29 February 2024                             |
@@ -78,12 +79,11 @@ All deadlines are 23:59 UTC-12 ("anywhere on Earth").
 
 
 ## **References**
+Halliday, M. A. K., & Hasan, R. (1976). Cohesion in English. London: Longman.
 
-1. George A Miller and Walter G Charles. 1991. Contex-
-tual Correlates of Semantic Similarity. Language
-and Cognitive Processes, 6(1):1–28
+George A Miller and Walter G Charles. 1991. Contextual Correlates of Semantic Similarity. Language and Cognitive Processes, 6(1):1–28
 
-2. Abdalla, Mohamed, Krishnapriya Vishnubhotla, and Saif M. Mohammad. "What makes sentences semantically related: A textual relatedness dataset and empirical study." arXiv preprint arXiv:2110.04845 (2021).
+Abdalla, Mohamed, Krishnapriya Vishnubhotla, and Saif M. Mohammad. "What makes sentences semantically related: A textual relatedness dataset and empirical study." arXiv preprint arXiv:2110.04845 (2021).
 
 
 
