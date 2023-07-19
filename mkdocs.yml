@@ -1,7 +1,15 @@
 site_name: Semantic Relatedness Shared Task
 site_url: https://example.com/
 theme:
-    name: mkdocs
+  logo: assets/logo.png
+  name: material
+  font:
+    text: Open Sans
+    code: Roboto Mono
+  palette:
+     primary: pink
+     accent: teal
+
 nav:
     - Home: index.md
     # - Participation: participation.md
