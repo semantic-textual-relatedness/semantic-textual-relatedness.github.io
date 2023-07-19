@@ -1,7 +1,7 @@
 ## Task Organizers
 
 <p>Below is a list of organizers for Semantic Relatedness Shared Task 2024</p>
-<table style="height: 255px; width: 731px;">
+<table style="width: 100%; height: 100%; border: solid 3px pink;">
 <thead>
 <tr>
 <td><strong>Organizers</strong></td>

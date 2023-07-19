@@ -4,15 +4,15 @@
 #   ** Semantic Textual Relatedness Task** 
 SemEval 2024 Task 1: Semantic Textual Relatedness 
 
-> Part of the [18th International Workshop on Semantic Evaluation](https://semeval.github.io/SemEval2024/tasks.html)
+ Part of the [18th International Workshop on Semantic Evaluation](https://semeval.github.io/SemEval2024/tasks.html)
 
 <!-- 
 <center> -->
-> Contact organizers at: [semrel@googlegroups.com](mailto:https://groups.google.com/d/forum/semrel-semeval-organisers)
+ Contact organizers at: [semrel@googlegroups.com](mailto:https://groups.google.com/d/forum/semrel-semeval-organisers)
 <!-- 
 <center> -->
 
-> [Join Task Slack Group](https://join.slack.com/t/slack-1ga9972/shared_invite/zt-1z8um0fdi-ddx5VWCxvw~kcpTkuAXwrQ)
+ [Join Task Slack Group](https://join.slack.com/t/slack-1ga9972/shared_invite/zt-1z8um0fdi-ddx5VWCxvw~kcpTkuAXwrQ)
 
 
 <!-- <center> -->
@@ -24,7 +24,6 @@ SemEval 2024 Task 1: Semantic Textual Relatedness
  -->
 
 </center>
-
 
 ---
 ## **Motivation**
@@ -41,17 +40,13 @@ However, much of past NLP work is on semantic similarity, and largely focused on
 <p>The <strong> Semantic Textual Relatedness Shared Task 1</strong> 
 is the task of predicting semantic textual relatedness (STR) of sentence pairs. Participants will rank sentence pairs by their closeness in meaning (i.e., their degree of semantic relatedness) in 14 languages predominantly from Africa and Asia. All sentence pairs will have manually determined relatedness scores between 0 (completely unrelated) and 1 (maximally related). It consists of two sub-tasks. Participants can select one or more sub-tasks depending on their preference.</p>
 
-
-
 <p><strong>Task A: Supervised</strong></p>
-</blockquote>
+
 <p> In this subtask, participants submit systems that have been trained using the provided labeled datasets (with scores ranging from 0 to 1 representing the degree of semantic textual relatedness). These datasets contain pairs of sentences that have been manually scored based on their degree of relatedness.</p>
 
 
-
-<blockquote>
 <p><strong>Task B: Unsupervised</strong></p>
-</blockquote>
+
 <p> In this subtask, participants are expected to submit systems that have been developed without the use of any labeled datasets pertaining to semantic relatedness. </p>
 
 ## **Important Dates**
@@ -70,7 +65,6 @@ is the task of predicting semantic textual relatedness (STR) of sentence pairs. 
 All deadlines are 23:59 UTC-12 ("anywhere on Earth").
 
 ## **Dataset**
-
 Pilot dataset for the shared task is now available for access [here](https://github.com/semantic-textual-relatedness/Semantic_Relatedness_SemEval2024)
 
 <!-- ## **Communication**
@@ -86,9 +80,6 @@ Halliday, M. A. K., & Hasan, R. (1976). Cohesion in English. London: Longman.
 George A Miller and Walter G Charles. 1991. Contextual Correlates of Semantic Similarity. Language and Cognitive Processes, 6(1):1–28
 
 Abdalla, Mohamed, Krishnapriya Vishnubhotla, and Saif M. Mohammad. "What makes sentences semantically related: A textual relatedness dataset and empirical study." arXiv preprint arXiv:2110.04845 (2021).
-
-
-
 
 <style>
 body {
