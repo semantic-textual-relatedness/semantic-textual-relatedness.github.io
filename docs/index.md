@@ -38,7 +38,7 @@ Two sentences are considered semantically similar when they have a paraphrasal o
 
 <p>
  
-However, much of past NLP work is on semantic similarity, and largely focused on English. In this shared task, we cover English, Spanish, Modern Standard Arabic in addition to African and Asian languages, including Algerian Arabic, Amharic, English, Hausa, Hindi, Indonesian, Kinyarwanda, Makhuwa, Morrocan Arabic, Mozambican Portuguese, Punjabi, Spanish, and Yoruba.</p>
+However, much of past NLP work is on semantic similarity, and largely focused on English. In this shared task, we cover English, Spanish, Modern Standard Arabic in addition to African and Asian languages, including [Algerian Arabic](https://en.wikipedia.org/wiki/Algerian_Arabic), [Amharic](https://en.wikipedia.org/wiki/Amharic,%20and%20Oromo), English, [Hausa](https://en.wikipedia.org/wiki/Hausa_language), [Hindi](https://en.wikipedia.org/wiki/Hindi), [Indonesian](https://en.wikipedia.org/wiki/Indonesian_language), [Kinyarwanda](https://en.wikipedia.org/wiki/Kinyarwanda), [Makhuwa](https://en.wikipedia.org/wiki/Makhuwa_language), [Morrocan Arabic](https://en.wikipedia.org/wiki/Moroccan_Arabic), [Mozambican Portuguese](https://en.wikipedia.org/wiki/Mozambican_Portuguese), [Punjabi](https://en.wikipedia.org/wiki/Punjabi_language), [Spanish](https://en.wikipedia.org/wiki/Spanish_language), and [Yoruba](https://en.wikipedia.org/wiki/Yoruba_language).</p>
 
 ## **Task Overview**
 <p>The <strong> Semantic Textual Relatedness Shared Task 1</strong> 
