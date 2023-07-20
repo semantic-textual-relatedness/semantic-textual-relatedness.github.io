@@ -1,8 +1,3 @@
-## Terms and Conditions
-
-<p><span lang="en-GB"> Terms and conditions for the task</span></span></p>
-<ul type="disc">
-
 <li><span>By submitting results to this competition, you consent to the public release of your scores on this website and at the SemEval-2024 workshop and in the associated proceedings, at the task organizers' discretion. Scores may include but are not limited to, automatic and manual quantitative judgments, qualitative judgments, and such other metrics as the task organizers see fit. You accept that the ultimate decision of metric choice and score value is that of the task organizers.</span></li>
 <li><span>You further agree that the task organizers are under no obligation to release scores and that scores may be withheld if it is the task organizers' judgment that the submission was incomplete, erroneous, deceptive, or violated the letter or spirit of the competition's rules. The inclusion of a submission's scores is not an endorsement of a team or individual's submission, system, or science.</span></li>
 <li><span>A participant can be involved in exactly one team (no more). If there are reasons why it makes sense for you to be on more than one team, then email us before the evaluation period begins. In special circumstances, this may be allowed.</span></li>
