@@ -14,7 +14,7 @@ SemEval 2024 Task 1: Semantic Textual Relatedness
 
  [GutHub Page](https://github.com/semantic-textual-relatedness/)
 
- [Join Twitter](https://twitter.com/SemRel2024)
+ [Follow us on Twitter](https://twitter.com/SemRel2024)
 
  [Join Task Slack Group](https://join.slack.com/t/slack-1ga9972/shared_invite/zt-1z8um0fdi-ddx5VWCxvw~kcpTkuAXwrQ)
 
