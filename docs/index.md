@@ -3,7 +3,7 @@
 
 #   ** SemEval 2024 Task 1: Semantic Textual Relatedness (STR)** 
 ---
-An international shared task on automatically detecting the degree of semantic relatedness between pairs of sentences. New textual datasets provided for many African and Asian languages, as well as English and Spanish. 
+An international shared task on automatically detecting the degree of semantic relatedness between pairs of sentences. New textual datasets will be provided for many African and Asian languages, as well as English and Spanish. 
 
 ---
  Part of the [18th International Workshop on Semantic Evaluation](https://semeval.github.io/SemEval2024/tasks.html)
@@ -47,12 +47,12 @@ is the task of predicting semantic textual relatedness (STR) of sentence pairs. 
 
 <p><strong>Task A: Supervised</strong></p>
 
-<p> In this subtask, participants submit systems that have been trained using the provided labeled datasets (with scores ranging from 0 to 1 representing the degree of semantic textual relatedness). These datasets contain pairs of sentences that have been manually scored based on their degree of relatedness.</p>
+<p> In this subtask, participants submit systems that have been trained using the provided labeled datasets (with scores ranging from 0 to 1 representing the degree of semantic textual relatedness). These datasets contain pairs of sentences that have been manually scored based on their degree of relatedness. Participating teams are allowed to use other relatedness and similarity datasets or datasets in other languages. However, they must report additional data they used, and ideally report how impactful each resource was on the final results.</p>
 
 
 <p><strong>Task B: Unsupervised</strong></p>
 
-<p> In this subtask, participants are expected to submit systems that have been developed without the use of any labeled datasets pertaining to semantic relatedness. </p>
+<p> In this subtask, participants are expected to submit systems that have been developed without the use of any labeled datasets pertaining to semantic relatedness or additional datasets. </p>
 
 ## **Important Dates**
 
