@@ -1,9 +1,11 @@
 
 <center>
 
-#   ** Semantic Textual Relatedness Task** 
-SemEval 2024 Task 1: Semantic Textual Relatedness 
+#   ** SemEval 2024 Task 1: Semantic Textual Relatedness (STR)** 
+---
+An international shared task on automatically detecting the degree of semantic relatedness between pairs of sentences. New textual datasets provided for many African and Asian languages, as well as English and Spanish. 
 
+---
  Part of the [18th International Workshop on Semantic Evaluation](https://semeval.github.io/SemEval2024/tasks.html)
 
 <!-- 
