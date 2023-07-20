@@ -68,7 +68,7 @@ is the task of predicting semantic textual relatedness (STR) of sentence pairs. 
 All deadlines are 23:59 UTC-12 ("anywhere on Earth").
 
 ## **Dataset**
-Pilot dataset for the shared task is now available for access [here](https://github.com/semantic-textual-relatedness/Semantic_Relatedness_SemEval2024)
+Pilot data for the shared task is now available. [Pilot data](https://github.com/semantic-textual-relatedness/Semantic_Relatedness_SemEval2024)
 
 <!-- ## **Communication**
 
