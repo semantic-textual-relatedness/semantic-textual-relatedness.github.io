@@ -52,7 +52,7 @@ is the task of predicting semantic textual relatedness (STR) of sentence pairs. 
 
 <p><strong>Task B: Unsupervised</strong></p>
 
-<p> In this subtask, participants are expected to submit systems that have been developed without the use of any labeled datasets pertaining to semantic relatedness or additional datasets. </p>
+<p> In this subtask, participants are expected to submit systems that have been developed without the use of any labeled datasets pertaining to semantic relatedness between sentences (i.e., labeled datasets of semantic relatedness or semantic similarity between units of text of more than two words long in any language). The use of unigram or bigram relatedness datasets is permitted. </p>
 
 ## **Important Dates**
 
