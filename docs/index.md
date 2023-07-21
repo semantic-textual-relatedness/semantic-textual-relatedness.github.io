@@ -10,6 +10,7 @@ An international shared task on automatically detecting the degree of semantic r
 
 <!-- 
 <center> -->
+
  Contact organizers at: [semrel@googlegroups.com](mailto:https://groups.google.com/d/forum/semrel-semeval-organisers)
 <!-- 
 <center> -->
