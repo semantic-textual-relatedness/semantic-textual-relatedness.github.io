@@ -14,7 +14,7 @@ An international shared task on automatically detecting the degree of semantic r
 <!-- 
 <center> -->
 
- [GutHub Page](https://github.com/semantic-textual-relatedness/)
+ [GutHub Page](https://github.com/semantic-textual-relatedness/Semantic_Relatedness_SemEval2024)
 
  [Follow us on Twitter](https://twitter.com/SemRel2024)
 
