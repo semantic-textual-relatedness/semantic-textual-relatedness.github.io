@@ -60,7 +60,7 @@ is the task of predicting semantic textual relatedness (STR) of sentence pairs. 
 | Descriptions                 | Deadlines                                    |
 | ---------------------------- | -------------------------------------------- |
 | Sample Data Ready            | <s>17 July 2023</s>                          |
-| Training Data Ready          | 04 September 2023                            |
+| Training Data Ready          | 11 September 2023                            |
 | Evaluation Start             | 10 January 2024                              |
 | Evaluation End               | 31 January 2024                              |
 | System Description Paper Due | 29 February 2024                             |
