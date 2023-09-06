@@ -55,6 +55,9 @@ is the task of predicting semantic textual relatedness (STR) of sentence pairs. 
 
 <p> In this subtask, participants are to submit systems that have been developed without the use of any labeled datasets pertaining to semantic relatedness or semantic similarity between units of text more than two words long in any language. The use of unigram or bigram relatedness datasets is permitted. </p>
 
+## Evaluation details
+
+The official evaluation metric for this task is the Pearson correlation coefficient, which captures how well the system scores align with the human judgments. You can find the evaluation script for this shared task on our [Github page](https://github.com/semantic-textual-relatedness/Semantic_Relatedness_SemEval2024/blob/main/evaluation_script/evaluation.py).
 ## **Important Dates**
 
 | Descriptions                 | Deadlines                                    |
@@ -72,6 +75,10 @@ All deadlines are 23:59 UTC-12 ("anywhere on Earth").
 
 ## **Dataset**
 Pilot data for the shared task is now available. [Pilot data](https://github.com/semantic-textual-relatedness/Semantic_Relatedness_SemEval2024)
+
+## Evaluation
+
+
 
 <!-- ## **Communication**
 
