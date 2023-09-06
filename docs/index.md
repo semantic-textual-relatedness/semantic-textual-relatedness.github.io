@@ -94,7 +94,7 @@ Halliday, M. A. K., & Hasan, R. (1976). Cohesion in English. London: Longman.
 
 George A Miller and Walter G Charles. 1991. Contextual Correlates of Semantic Similarity. Language and Cognitive Processes, 6(1):1–28
 
-Abdalla, Mohamed, Krishnapriya Vishnubhotla, and Saif M. Mohammad. "What makes sentences semantically related: A textual relatedness dataset and empirical study." arXiv preprint arXiv:2110.04845 (2021).
+Mohamed Abdalla, Krishnapriya Vishnubhotla, and Saif Mohammad. 2023. What Makes Sentences Semantically Related? A Textual Relatedness Dataset and Empirical Study. In Proceedings of the 17th Conference of the European Chapter of the Association for Computational Linguistics, pages 782–796, Dubrovnik, Croatia. Association for Computational Linguistics.
 
 <style>
 body {
