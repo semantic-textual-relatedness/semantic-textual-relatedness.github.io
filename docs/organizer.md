@@ -69,12 +69,35 @@
 <td>&nbsp;oumaima.hourrane@gmail.com</td>
 </tr>
 
+<tr>
+<td><a href="https://www.iiit.ac.in/people/faculty/m.shrivastava/">Manish Shrivastava</a></td>
+<td>International Institute of Information Technology Hyderabad, India</td>
+<td>&nbsp;m.shrivastava@iiit.ac.in</td>
+</tr>
+
+<tr>
+<td><a href="">Nirmal Surange</a></td>
+<td>International Institute of Information Technology Hyderabad, India</td>
+<td>&nbsp;nirmal.surange@research.iiit.ac.in</td>
+</tr>
+
+<tr>
+<td><a href="">Sanchit Ahuja</a></td>
+<td>BITS Pilani</td>
+<td>&nbsp;sanchitahuja205@gmail.com</td>
+</tr>
+
+
+
+
+
+
 
 
 
 <tr>
-<td><a href="http://solorio.uh.edu">Thamar Solorio</a></td>
-<td> University of Houston</td>
+<td><a href="https://mbzuai.ac.ae/study/faculty/thamar-solorio/">Thamar Solorio</a></td>
+<td>MBZUAI</td>
 <td>&nbsp;thamar.solorio@gmail.com</td>
 </tr>
 
