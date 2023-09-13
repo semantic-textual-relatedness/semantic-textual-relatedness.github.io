@@ -45,8 +45,6 @@ Two sentences are considered semantically similar when they have a paraphrasal o
 
 Most people will agree that the sentences in pair 1 are more related than the sentences in pair 2. 
 
-In this task, new textual datasets will be provided for Afrikaans, Algerian Arabic, Amharic, English, Hausa, Hindi, Indonesian, Kinyarwanda, Marathi, Moroccan Arabic, Modern Standard Arabic, Punjabi, Spanish, and Telugu.
-
 
 However, much of past NLP work is on semantic similarity, and largely focused on English. In this shared task, we cover the following languages: [Afrikaans](https://en.wikipedia.org/wiki/Afrikaans), [Algerian Arabic](https://en.wikipedia.org/wiki/Algerian_Arabic), [Amharic](https://en.wikipedia.org/wiki/Amharic), English, [Hausa](https://en.wikipedia.org/wiki/Hausa_language), [Hindi](https://en.wikipedia.org/wiki/Hindi), [Indonesian](https://en.wikipedia.org/wiki/Indonesian_language), [Kinyarwanda](https://en.wikipedia.org/wiki/Kinyarwanda), [Marathi](https://en.wikipedia.org/wiki/Marathi_language), [Morrocan Arabic](https://en.wikipedia.org/wiki/Moroccan_Arabic), [Modern Standard Arabic](https://en.wikipedia.org/wiki/Modern_Standard_Arabic), [Punjabi](https://en.wikipedia.org/wiki/Punjabi_language), [Spanish](https://en.wikipedia.org/wiki/Spanish_language), and [Telugu](https://en.wikipedia.org/wiki/Telugu_language).
 
