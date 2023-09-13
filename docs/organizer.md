@@ -62,45 +62,48 @@
 <td>&nbsp;seid.muhie.yimam@uni-hamburg.de</td>
 </tr>
 
+<tr>
+<td>Nirmal Surange</td>
+<td>IIIT Hyderabad</td>
+<td>&nbsp;nirmal.surange@research.iiit.ac.in</td>
+</tr>
 
 <tr>
-<td><a href="https://oumaimahourrane.github.io">Oumaima Hourrane</a></td>
+<td>Christine De Kock</td>
+<td>The University of Melbourne</td>
+<td>&nbsp;christinedekock11@gmail.com</td>
+</tr>
+  
+<tr>
+<td>Sanchit Ahuja</td>
+<td>Skit.ai</td>
+<td>&nbsp;sanchitahuja205@gmail.com</td>
+</tr>
+  
+<tr>
+<td>Oumaima Hourrane</td>
 <td>Independent Researcher</td>
 <td>&nbsp;oumaima.hourrane@gmail.com</td>
 </tr>
 
 <tr>
-<td><a href="https://www.iiit.ac.in/people/faculty/m.shrivastava/">Manish Shrivastava</a></td>
-<td>International Institute of Information Technology Hyderabad, India</td>
+<td>Manish Shrivastava</td>
+<td>IIIT Hyderabad</td>
 <td>&nbsp;m.shrivastava@iiit.ac.in</td>
 </tr>
 
 <tr>
-<td><a href="">Nirmal Surange</a></td>
-<td>International Institute of Information Technology Hyderabad, India</td>
-<td>&nbsp;nirmal.surange@research.iiit.ac.in</td>
-</tr>
-
-<tr>
-<td><a href="">Sanchit Ahuja</a></td>
-<td>BITS Pilani</td>
-<td>&nbsp;sanchitahuja205@gmail.com</td>
-</tr>
-
-
-
-
-
-
-
-
-
-<tr>
-<td><a href="https://mbzuai.ac.ae/study/faculty/thamar-solorio/">Thamar Solorio</a></td>
+<td>Alham Fikri Aji</td>
 <td>MBZUAI</td>
+<td>&nbsp;alham.fikri@mbzuai.ac.ae</td>
+</tr>
+
+  
+<tr>
+<td><a href="http://solorio.uh.edu">Thamar Solorio</a></td>
+<td> University of Houston</td>
 <td>&nbsp;thamar.solorio@gmail.com</td>
 </tr>
-
 
 
 <tr>
