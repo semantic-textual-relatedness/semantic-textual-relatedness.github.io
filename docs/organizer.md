@@ -113,5 +113,4 @@
 </tbody>
 </table>
 
-## **Funding Acknowledgements**
 
