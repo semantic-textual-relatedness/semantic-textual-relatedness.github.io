@@ -75,19 +75,19 @@
 </tr>
   
 <tr>
-<td><a href="https://sanchit-ahuja.github.io">Sanchit Ahuja</a>a</td>
+<td><a href="https://sanchit-ahuja.github.io">Sanchit Ahuja</a></td>
 <td>Skit.ai</td>
 <td>&nbsp;sanchitahuja205@gmail.com</td>
 </tr>
   
 <tr>
-<td><a href="https://oumaimahourrane.github.io">Oumaima Hourrane</a>a</td>
+<td><a href="https://oumaimahourrane.github.io">Oumaima Hourrane</a></td>
 <td>Independent Researcher</td>
 <td>&nbsp;oumaima.hourrane@gmail.com</td>
 </tr>
 
 <tr>
-<td><a href="https://www.iiit.ac.in/people/faculty/m.shrivastava/">Manish Shrivastava</a>a</td>
+<td><a href="https://www.iiit.ac.in/people/faculty/m.shrivastava/">Manish Shrivastava</a></td>
 <td>IIIT Hyderabad</td>
 <td>&nbsp;m.shrivastava@iiit.ac.in</td>
 </tr>
