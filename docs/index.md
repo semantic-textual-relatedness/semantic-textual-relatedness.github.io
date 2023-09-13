@@ -103,9 +103,9 @@ Pilot data for the shared task is now available. [Pilot data](https://github.com
 
 
 ## **References**
-[Big BiRD: A Large, Fine-Grained, Bigram Relatedness Dataset for Examining Semantic Composition](https://aclanthology.org/N19-1050/)
+Shima Asaadi, Saif Mohammad, Svetlana Kiritchenko. 2019. Big BiRD: A Large, Fine-Grained, Bigram Relatedness Dataset for Examining Semantic Composition. Proceedings of the 2019 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies.
 
-Halliday, M. A. K., & Hasan, R. (1976). Cohesion in English. London: Longman.
+M. A. K. Halliday and R. Hasan. 1976. Cohesion in English. London: Longman.
 
 George A Miller and Walter G Charles. 1991. Contextual Correlates of Semantic Similarity. Language and Cognitive Processes, 6(1):1–28
 
