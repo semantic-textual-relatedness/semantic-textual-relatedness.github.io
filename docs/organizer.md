@@ -98,12 +98,22 @@
 <td>&nbsp;alham.fikri@mbzuai.ac.ae</td>
 </tr>
 
+<tr>
+<td><a href="https://mbzuai.ac.ae/study/faculty/alham-fikri-aji/">Alham Fikri Aji</a></td>
+<td>MBZUAI</td>
+<td>&nbsp;Alham.Fikri@mbzuai.ac.ae</td>
+</tr>
+
+
+
+
   
 <tr>
-<td><a href="http://solorio.uh.edu">Thamar Solorio</a></td>
-<td> University of Houston</td>
+<td><a href="https://mbzuai.ac.ae/study/faculty/thamar-solorio/">Thamar Solorio</a></td>
+<td>MBZUAI</td>
 <td>&nbsp;thamar.solorio@gmail.com</td>
 </tr>
+
 
 
 <tr>
