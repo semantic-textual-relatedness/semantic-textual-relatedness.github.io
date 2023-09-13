@@ -37,7 +37,14 @@ An international shared task on automatically detecting the degree of semantic r
 
 The semantic relatedness of two language units has long been considered fundamental to understanding meaning (<cite>Halliday and Hassan 1976, Miller and Charles 1991</cite>), and automatically determining relatedness has many applications such as evaluating sentence representation methods, question answering, and summarization (<cite>Abdalla et al. 2021</cite>).
 
-Two sentences are considered semantically similar when they have a paraphrasal or entailment relation (e.g., <span style='color: blue;'>The boy scored the winning goal.</span>, <span style='color: blue;'>The boy scored the winning goal.</span>) On the other hand, relatedness is a much broader concept that accounts for all the commonalities between two sentences. For example, <span style='color: blue;'>The boy scored the winning goal </span> and <span style='color: blue;'>The boy's team moved onto the finals </span> would be related though not similar. 
+Two sentences are considered semantically similar when they have a paraphrasal or entailment relation. On the other hand, relatedness is a much broader concept that accounts for all the commonalities between two sentences: whether they are on the same topic, express the same view, originate from the same time period, one elaborates on (or follows from) the other, etc. For instance, for the following sentence pairs:
+
+ - Pair 1: a. There was a lemon tree next to the house. b. The boy enjoyed reading under the lemon tree.
+
+ - Pair 2: a. There was a lemon tree next to the house. b. The boy was an excellent football player.
+
+Most people will agree that the sentences in pair 1 are more related than the sentences in pair 2. 
+In this task, new textual datasets will be provided for Afrikaans, Algerian Arabic, Amharic, English, Hausa, Hindi, Indonesian, Kinyarwanda, Marathi, Moroccan Arabic, Modern Standard Arabic, Punjabi, Spanish, and Telugu.
 
 
 However, much of past NLP work is on semantic similarity, and largely focused on English. In this shared task, we cover the following languages: [Afrikaans](https://en.wikipedia.org/wiki/Afrikaans), [Algerian Arabic](https://en.wikipedia.org/wiki/Algerian_Arabic), [Amharic](https://en.wikipedia.org/wiki/Amharic), English, [Hausa](https://en.wikipedia.org/wiki/Hausa_language), [Hindi](https://en.wikipedia.org/wiki/Hindi), [Indonesian](https://en.wikipedia.org/wiki/Indonesian_language), [Kinyarwanda](https://en.wikipedia.org/wiki/Kinyarwanda), [Marathi](https://en.wikipedia.org/wiki/Marathi_language), [Morrocan Arabic](https://en.wikipedia.org/wiki/Moroccan_Arabic), [Modern Standard Arabic](https://en.wikipedia.org/wiki/Modern_Standard_Arabic), [Punjabi](https://en.wikipedia.org/wiki/Punjabi_language), [Spanish](https://en.wikipedia.org/wiki/Spanish_language), and [Telugu](https://en.wikipedia.org/wiki/Telugu_language).
