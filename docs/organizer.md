@@ -69,34 +69,29 @@
 </tr>
 
 <tr>
-<td>Christine De Kock</td>
+<td><a href="https://christinedekock.com">Christine De Kock</a></td>
 <td>The University of Melbourne</td>
 <td>&nbsp;christinedekock11@gmail.com</td>
 </tr>
   
 <tr>
-<td>Sanchit Ahuja</td>
+<td><a href="https://sanchit-ahuja.github.io">Sanchit Ahuja</a>a</td>
 <td>Skit.ai</td>
 <td>&nbsp;sanchitahuja205@gmail.com</td>
 </tr>
   
 <tr>
-<td>Oumaima Hourrane</td>
+<td><a href="https://oumaimahourrane.github.io">Oumaima Hourrane</a>a</td>
 <td>Independent Researcher</td>
 <td>&nbsp;oumaima.hourrane@gmail.com</td>
 </tr>
 
 <tr>
-<td>Manish Shrivastava</td>
+<td><a href="https://www.iiit.ac.in/people/faculty/m.shrivastava/">Manish Shrivastava</a>a</td>
 <td>IIIT Hyderabad</td>
 <td>&nbsp;m.shrivastava@iiit.ac.in</td>
 </tr>
 
-<tr>
-<td>Alham Fikri Aji</td>
-<td>MBZUAI</td>
-<td>&nbsp;alham.fikri@mbzuai.ac.ae</td>
-</tr>
 
 <tr>
 <td><a href="https://mbzuai.ac.ae/study/faculty/alham-fikri-aji/">Alham Fikri Aji</a></td>
