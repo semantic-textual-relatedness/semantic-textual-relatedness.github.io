@@ -64,17 +64,20 @@
 
 
 <tr>
+<td><a href="https://oumaimahourrane.github.io">Oumaima Hourrane</a></td>
+<td>Independent Researcher</td>
+<td>&nbsp;oumaima.hourrane@gmail.com</td>
+</tr>
+
+
+
+
+<tr>
 <td><a href="http://solorio.uh.edu">Thamar Solorio</a></td>
 <td> University of Houston</td>
 <td>&nbsp;thamar.solorio@gmail.com</td>
 </tr>
 
-
-<tr>
-<td><a href="https://www.microsoft.com/en-us/research/people/monojitc/">Monojit Choudhury</a></td>
-<td> Microsoft Research Lab India</td>
-<td>&nbsp;mail</td>
-</tr>
 
 
 <tr>
