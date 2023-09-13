@@ -39,9 +39,11 @@ The semantic relatedness of two language units has long been considered fundamen
 
 Two sentences are considered semantically similar when they have a paraphrasal or entailment relation. On the other hand, relatedness is a much broader concept that accounts for all the commonalities between two sentences: whether they are on the same topic, express the same view, originate from the same time period, one elaborates on (or follows from) the other, etc. For instance, for the following sentence pairs:
 
- - Pair 1: a. There was a lemon tree next to the house. b. The boy enjoyed reading under the lemon tree.
+<center>
 
- - Pair 2: a. There was a lemon tree next to the house. b. The boy was an excellent football player.
+![sentence pairs](pairs_semrel.png)
+
+</center>
 
 Most people will agree that the sentences in pair 1 are more related than the sentences in pair 2. 
 
