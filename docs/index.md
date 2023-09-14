@@ -62,17 +62,20 @@ Further details about the task, the method of data annotation, how STR is differ
 
 </p>
 
-<p><strong>Track A: Supervised</strong> Participants are to submit systems that have been trained using the labeled training datasets provided. Participating teams are allowed to use any publicly available datasets (e.g., other relatedness and similarity datasets or datasets in any other languages). However, they must report additional data they used, and ideally report how impactful each resource was on the final results.
+<p><strong>Track A: Supervised</strong></p>
+<p>Participants are to submit systems that have been trained using the labeled training datasets provided. Participating teams are allowed to use any publicly available datasets (e.g., other relatedness and similarity datasets or datasets in any other languages). However, they must report additional data they used, and ideally report how impactful each resource was on the final results.
 </p>
 
 
-<p><strong>Track B: Unsupervised</strong> Participants are to submit systems that have been developed without the use of any labeled datasets pertaining to semantic relatedness or semantic similarity between units of text more than two words long in any language. The use of unigram or bigram relatedness datasets (from any language) is permitted. 
+<p><strong>Track B: Unsupervised</strong></p>
+<p>Participants are to submit systems that have been developed without the use of any labeled datasets pertaining to semantic relatedness or semantic similarity between units of text more than two words long in any language. The use of unigram or bigram relatedness datasets (from any language) is permitted. 
 </p>
 
-<p><strong>Track C: Cross-lingual</strong> Participants are to submit systems that have been developed without the use of any labeled semantic similarity or semantic relatedness datasets in the target language and with the use of labeled dataset(s) from at least one other language.  Note: Using labeled data from another track is mandatory for a submission to this track.
+<p><strong>Track C: Cross-lingual</strong></p>
+<p>Participants are to submit systems that have been developed without the use of any labeled semantic similarity or semantic relatedness datasets in the target language and with the use of labeled dataset(s) from at least one other language.  Note: Using labeled data from another track is mandatory for a submission to this track.
 </p>
 
-<p><strong>Deciding which track a submission should go to:</strong></p>
+<p><strong>Deciding which track a submission should go to</strong></p>
 <p>
 - If a submission uses labeled data in the target language: submit to Track A.
 
