@@ -57,7 +57,7 @@ However, much of past NLP work is on semantic similarity, and largely focused on
 Further details about the task, the method of data annotation, how STR is different from semantic textual similarity, applications of semantic textual relatedness, etc. can be found in <a href="https://aclanthology.org/2023.eacl-main.55.pdf">this paper</a>.
 </p>
 
-<p>The <strong> Semantic Textual Relatedness Shared Task 1</strong></p>
+<p><strong> The Semantic Textual Relatedness Shared Task 1</strong></p>
 <p>The task consists of predicting semantic textual relatedness (STR) of sentence pairs. Participants will rank sentence pairs by their closeness in meaning (i.e., their degree of semantic relatedness) in the 14 different languages. All sentence pairs will have manually determined relatedness scores between 0 (completely unrelated) and 1 (maximally related). Each team can provide submissions for one, two or all of the tracks shown below:
 
 </p>
@@ -76,13 +76,11 @@ Further details about the task, the method of data annotation, how STR is differ
 </p>
 
 <p><strong>Deciding which track a submission should go to</strong></p>
-
-- If a submission uses labeled data in the target language: submit to Track A.
-
-- If a submission does not use labeled data in the target language but uses labeled data from another language: submit to Track C.
-
-- If a submission does not use labeled data in any language: submit to Track B.
-
+ <ul>
+	<LI> If a submission uses labeled data in the target language: submit to Track A.</LI>
+ <LI> If a submission does not use labeled data in the target language but uses labeled data from another language: submit to Track C. </LI>
+ <LI> If a submission does not use labeled data in any language: submit to Track B.</LI>
+ </ul>
 
 <p><strong>Note</strong></p>
 
