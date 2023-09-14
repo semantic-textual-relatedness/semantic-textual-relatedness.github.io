@@ -76,13 +76,13 @@ Further details about the task, the method of data annotation, how STR is differ
 </p>
 
 <p><strong>Deciding which track a submission should go to</strong></p>
-<p>
+
 - If a submission uses labeled data in the target language: submit to Track A.
 
 - If a submission does not use labeled data in the target language but uses labeled data from another language: submit to Track C.
 
 - If a submission does not use labeled data in any language: submit to Track B.
-</p>
+
 
 <p><strong>Note</strong></p>
 
