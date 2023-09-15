@@ -11,7 +11,7 @@ A shared task on automatically detecting the degree of semantic relatedness betw
 <!-- 
 <center> -->
 
- Contact organizers at: [semrel@googlegroups.com](mailto:https://groups.google.com/d/forum/semrel-semeval-organisers)
+ Contact organizers at: [semrel-semeval-organisers@googlegroups.com](mailto:semrel-semeval-organisers@googlegroups.com)
 <!-- 
 <center> -->
 
@@ -21,6 +21,7 @@ A shared task on automatically detecting the degree of semantic relatedness betw
 
  [Join Task Slack Group](https://join.slack.com/t/slack-1ga9972/shared_invite/zt-1z8um0fdi-ddx5VWCxvw~kcpTkuAXwrQ)
 
+ [Join Google Group] (https://groups.google.com/g/semrel-semeval-participants)
 
 <!-- <center> -->
 
