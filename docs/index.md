@@ -94,7 +94,7 @@ The official evaluation metric for this task is the Spearman rank correlation co
 | Descriptions                 | Deadlines                                    |
 | ---------------------------- | -------------------------------------------- |
 | Sample Data Ready            | <s>17 July 2023</s>                          |
-| Training Data Ready          | 11 September 2023                            |
+| Training Data Ready          | 18 September 2023                            |
 | Evaluation Start             | 10 January 2024                              |
 | Evaluation End               | 31 January 2024                              |
 | System Description Paper Due | 29 February 2024                             |
