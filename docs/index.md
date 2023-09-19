@@ -23,6 +23,8 @@ A shared task on automatically detecting the degree of semantic relatedness betw
 
  [Join Google Group](https://groups.google.com/g/semrel-semeval-participants)
 
+ [Competition Website](https://codalab.lisn.upsaclay.fr/competitions/15704)
+
 <!-- <center> -->
 
 
