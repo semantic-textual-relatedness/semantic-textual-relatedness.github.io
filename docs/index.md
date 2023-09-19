@@ -13,7 +13,7 @@ A shared task on automatically detecting the degree of semantic relatedness betw
 
  Contact organizers at [semrel-semeval-organisers@googlegroups.com](mailto:semrel-semeval-organisers@googlegroups.com)
 
- [Competition Website](https://codalab.lisn.upsaclay.fr/competitions/15704)
+ [Competition Website](https://codalab.lisn.upsaclay.fr/competitions/15715)
 
 <!-- 
 <center> -->
