@@ -69,7 +69,7 @@
 </tr>
 
 <tr>
-<td><a href="https://christinedekock.com">Christine De Kock</a></td>
+<td><a href="https://christinedekock.com">Christine de Kock</a></td>
 <td>The University of Melbourne</td>
 <td>&nbsp;christinedekock11@gmail.com</td>
 </tr>
