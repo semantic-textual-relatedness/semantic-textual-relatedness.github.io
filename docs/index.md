@@ -22,7 +22,7 @@ A shared task on automatically detecting the degree of semantic relatedness betw
 
  [Follow us on Twitter](https://twitter.com/SemRel2024)
 
- [Join Task Slack Group](https://join.slack.com/t/slack-1ga9972/shared_invite/zt-1z8um0fdi-ddx5VWCxvw~kcpTkuAXwrQ)
+ [Join Task Slack Channel](https://join.slack.com/t/semrelsemeval2024/shared_invite/zt-2446ppar5-62koodIDFC9bCRMlR0ATkA)
 
  [Join Google Group](https://groups.google.com/g/semrel-semeval-participants)
 
