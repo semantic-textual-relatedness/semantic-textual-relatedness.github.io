@@ -20,6 +20,8 @@ A shared task on automatically detecting the degree of semantic relatedness betw
 
  [GitHub Page](https://github.com/semantic-textual-relatedness/Semantic_Relatedness_SemEval2024)
 
+ [Data](https://github.com/semantic-textual-relatedness/Semantic_Relatedness_SemEval2024)
+
  [Follow us on Twitter](https://twitter.com/SemRel2024)
 
  [Join Task Slack Channel](https://join.slack.com/t/semrelsemeval2024/shared_invite/zt-2446ppar5-62koodIDFC9bCRMlR0ATkA)
