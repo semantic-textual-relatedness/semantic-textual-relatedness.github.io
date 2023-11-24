@@ -111,7 +111,7 @@ The official evaluation metric for this task is the Spearman rank correlation co
 All deadlines are 23:59 UTC-12 ("anywhere on Earth").
 
 ## **Dataset**
-Data for the shared task is now available. [SemRel Repo](https://github.com/semantic-textual-relatedness/Semantic_Relatedness_SemEval2024#citing-this-work)
+The data for this shared task is now available [here](https://github.com/semantic-textual-relatedness/Semantic_Relatedness_SemEval2024#citing-this-work).
 
 
 
