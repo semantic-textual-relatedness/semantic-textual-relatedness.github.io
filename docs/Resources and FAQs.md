@@ -1,5 +1,4 @@
 ## Resources and FAQs
-### Resources
 
 We provide some useful information about SemEval shared task. 
 
