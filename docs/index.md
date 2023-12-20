@@ -114,7 +114,7 @@ All deadlines are 23:59 UTC-12 ("anywhere on Earth").
 The data for this shared task is now available [here](https://github.com/semantic-textual-relatedness/Semantic_Relatedness_SemEval2024#citing-this-work).
 
 
-## FAQs
+## **FAQs**
 
 #### Can I use LLMs for Tracks B and C?
 
