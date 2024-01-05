@@ -100,13 +100,13 @@ The official evaluation metric for this task is the Spearman rank correlation co
 | Descriptions                 | Deadlines                                    |
 | ---------------------------- | -------------------------------------------- |
 | Sample Data Ready            | <s>17 July 2023</s>                          |
-| Training Data Ready          | 18 September 2023                            |
-| Evaluation Start             | 10 January 2024                              |
+| Training Data Ready          | <s>18 September 2023</s>                     |
+| Evaluation Start             | 20 January 2024                              |
 | Evaluation End               | 31 January 2024                              |
-| System Description Paper Due | 29 February 2024                             |
+| System Description Paper Due | 19 February 2024                             |
 | Notification to authors      | 1 April 2024                                 |
 | Camera ready due             | 22 April 2024                                |
-| SemEval workshop 2023        | TBD (co-located with a major NLP conference) |
+| SemEval workshop 2023        | June 16–21, 2024 (co-located with NAACL2024) |
 
 All deadlines are 23:59 UTC-12 ("anywhere on Earth").
 
