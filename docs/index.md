@@ -98,8 +98,8 @@ The official evaluation metric for this task is the Spearman rank correlation co
 
 ## **Important Dates**
 
-
-| ---------------------------- | -------------------------------------------- |
+| Description                  | Deadline                                     |
+| ---------------------------- | ---------------------------------------------|
 | Training Data Ready          | <s>18 September 2023</s>                     |
 | Evaluation Start             | 20 January 2024                              |
 | Evaluation End               | 31 January 2024                              |
@@ -107,7 +107,8 @@ The official evaluation metric for this task is the Spearman rank correlation co
 | Notification to authors      | 1 April 2024                                 |
 | Camera ready due             | 22 April 2024                                |
 | SemEval workshop 2024        | June 16–21, 2024 (co-located with NAACL2024) |
--------------------------------|-----------------------------------------------
+
+
 All deadlines are 23:59 UTC-12 ("anywhere on Earth").
 
 ## **Dataset**
