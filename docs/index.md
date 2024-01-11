@@ -95,9 +95,11 @@ Further details about the task, the method of data annotation, how STR is differ
 ## **Evaluation**
 
 The official evaluation metric for this task is the Spearman rank correlation coefficient, which captures how well the system-predicted rankings of test instances align with human judgments. You can find the evaluation script for this shared task on our [Github page](https://github.com/semantic-textual-relatedness/Semantic_Relatedness_SemEval2024/blob/main/evaluation_script/evaluation.py).
+
 ## **Important Dates**
--------------------------------------------------------------------------------
-| Sample Data Ready            | <s>17 July 2023</s>                          |
+
+
+| ---------------------------- | -------------------------------------------- |
 | Training Data Ready          | <s>18 September 2023</s>                     |
 | Evaluation Start             | 20 January 2024                              |
 | Evaluation End               | 31 January 2024                              |
@@ -105,7 +107,7 @@ The official evaluation metric for this task is the Spearman rank correlation co
 | Notification to authors      | 1 April 2024                                 |
 | Camera ready due             | 22 April 2024                                |
 | SemEval workshop 2024        | June 16–21, 2024 (co-located with NAACL2024) |
--------------------------------------------------------------------------------
+-------------------------------|-----------------------------------------------
 All deadlines are 23:59 UTC-12 ("anywhere on Earth").
 
 ## **Dataset**
