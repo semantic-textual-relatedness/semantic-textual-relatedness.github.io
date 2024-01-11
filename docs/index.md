@@ -97,8 +97,6 @@ Further details about the task, the method of data annotation, how STR is differ
 The official evaluation metric for this task is the Spearman rank correlation coefficient, which captures how well the system-predicted rankings of test instances align with human judgments. You can find the evaluation script for this shared task on our [Github page](https://github.com/semantic-textual-relatedness/Semantic_Relatedness_SemEval2024/blob/main/evaluation_script/evaluation.py).
 ## **Important Dates**
 
-| Descriptions                 | Deadlines                                    |
-| ---------------------------- | -------------------------------------------- |
 | Sample Data Ready            | <s>17 July 2023</s>                          |
 | Training Data Ready          | <s>18 September 2023</s>                     |
 | Evaluation Start             | 20 January 2024                              |
