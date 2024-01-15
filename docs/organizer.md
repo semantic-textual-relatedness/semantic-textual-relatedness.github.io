@@ -76,7 +76,7 @@
   
 <tr>
 <td><a href="https://sanchit-ahuja.github.io">Sanchit Ahuja</a></td>
-<td>Skit.ai</td>
+<td>BITS Pilani</td>
 <td>&nbsp;sanchitahuja205@gmail.com</td>
 </tr>
   
