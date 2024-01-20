@@ -12,6 +12,6 @@ We provide some useful information about SemEval shared task.
 
 5. [Paper style files](https://github.com/acl-org/acl-style-files)
 
-6. Paper submission site (TBD)
+6. Paper submission link (TBD)
 
 
