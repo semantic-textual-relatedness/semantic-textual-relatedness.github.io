@@ -92,6 +92,12 @@
 <td>&nbsp;m.shrivastava@iiit.ac.in</td>
 </tr>
 
+<tr>
+<td><a href="https://isahmadbbr.github.io">Ibrahim Said Ahmad</a></td>
+<td>Institute For Experiential AI, Northeastern University</td>
+<td>&nbsp;isab7070@gmail.com</td>
+</tr>
+
 
 <tr>
 <td><a href="https://mbzuai.ac.ae/study/faculty/alham-fikri-aji/">Alham Fikri Aji</a></td>
@@ -120,5 +126,3 @@
 
 </tbody>
 </table>
-
-
