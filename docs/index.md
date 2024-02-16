@@ -44,7 +44,7 @@ A shared task on automatically detecting the degree of semantic relatedness betw
 
 
 
-## **Task Result**
+## **Task Results**
 
 The shared task has officially ended, and we have released the results. You can access the results at the following links:
     <li><a href="https://docs.google.com/spreadsheets/d/1yn-caxJTjlufmcF1uzAh3aLLQGVVGRsS5MW5ShBWVWQ/edit?usp=sharing" target="_blank">Track A Results</a></li>
