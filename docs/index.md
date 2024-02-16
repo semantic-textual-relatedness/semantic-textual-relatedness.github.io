@@ -46,7 +46,7 @@ A shared task on automatically detecting the degree of semantic relatedness betw
 
 ## **Task Result**
 
-We have released the results for the shared task  A, Track B, and Track C. You can access the results at the following links:
+We have released the results for the shared task. You can access the results at the following links:
     <li><a href="https://docs.google.com/spreadsheets/d/1yn-caxJTjlufmcF1uzAh3aLLQGVVGRsS5MW5ShBWVWQ/edit?usp=sharing" target="_blank">Track A Results</a></li>
         <li><a href="https://docs.google.com/spreadsheets/d/1KGN26MYVlfEOqooq-bzD6EBNnpl-YT5XrY9COKESS-g/edit?usp=sharing" target="_blank">Track B Results</a></li>
         <li><a href="https://docs.google.com/spreadsheets/d/1A4nL2-SrH-DrvGGbuKGyl42VdwFrnXiDdWd6eQJTi5s/edit?usp=sharing" target="_blank">Track C Results</a></li>
