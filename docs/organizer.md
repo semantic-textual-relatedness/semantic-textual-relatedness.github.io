@@ -24,7 +24,9 @@ If you need additional information about a specific dataset, see below.
 
 
 
-<p>Below is a list of organizers for Semantic Relatedness Shared Task 2024</p>
+<p>Below is the list of the task organisers.</p>
+
+
 <table style="width: 100%; height: 100%; border: solid 3px pink;">
 <thead>
 <tr>
