@@ -1,7 +1,7 @@
 
 <center>
 
-#   **SemEval 2024 Task 1: Semantic Textual Relatedness (STR)** 
+#   **SemEval-2024 Task 1: Semantic Textual Relatedness for African and Asian Languages** 
 ---
 A shared task on automatically detecting the degree of semantic relatedness between pairs of sentences. New textual datasets will be provided for Afrikaans, Algerian Arabic, Amharic, English, Hausa, Hindi, Indonesian, Kinyarwanda, Marathi, Moroccan Arabic, Modern Standard Arabic, Punjabi, Spanish, and Telugu.
 
