@@ -15,7 +15,7 @@ A shared task on automatically detecting the degree of semantic relatedness betw
 
  [Development Phase Website](https://codalab.lisn.upsaclay.fr/competitions/15715)
  
- [Evaluation Phase Website Website](https://codalab.lisn.upsaclay.fr/competitions/16799)
+ [Evaluation Phase Website](https://codalab.lisn.upsaclay.fr/competitions/16799)
 
 
 <!-- 
